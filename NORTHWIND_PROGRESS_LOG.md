@@ -1,17 +1,17 @@
 # Northwind Progress Log
 
-> **Source of truth:** the [Confluence Progress Log](https://dhanushpixel.atlassian.net/wiki/spaces/NWFDE/pages/622895/Progress+Log) (space NWFDE). This file is a weekly backup copy.
+> **Source of truth:** this file. Claude reads only this copy. The [Confluence Progress Log](https://dhanushpixel.atlassian.net/wiki/spaces/NWFDE/pages/622895/Progress+Log) is a synced copy, updated on save.
 
 **Last updated:** Sun 25 Oct 2026
 
 ## Status
 
-| | |
-| --- | --- |
-| **Current week** | 1 (compressed: Thu 22 – Sun 25 Oct 2026). Closes Tue 27 Oct once KAN-13 (Vercel page) ships |
-| **Rank · XP** | Intern · **43 XP** |
-| **Next up** | Mon 26: explain-back quiz → read-only RLS rule → Vercel page (KAN-13) |
-| **North Star metric** | Average first response time: **4 days → under 24 hours** (dataset baseline: 95 hrs) |
+|                       |                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------- |
+| **Current week**      | 1 (compressed: Thu 22 – Sun 25 Oct 2026). Closes Tue 27 Oct once KAN-13 (Vercel page) ships |
+| **Rank · XP**         | Intern · **43 XP**                                                                          |
+| **Next up**           | Mon 26: explain-back quiz → read-only RLS rule → Vercel page (KAN-13)                       |
+| **North Star metric** | Average first response time: **4 days → under 24 hours** (dataset baseline: 95 hrs)         |
 
 ## Schedule
 
@@ -26,17 +26,18 @@
 
 ## Week 1 · "Show me something by Friday"
 
-| When | What | Status |
-| --- | --- | --- |
-| Thu 22 | Karpathy talk → LLM basics quiz, 4/5 | ✅ Done |
-| Sat 24 | Repo skeleton (`0b7258b`) | ✅ Done |
-| Sun 25 | Accounts: Supabase (Asia-Pacific, automatic RLS), Vercel (Hobby), OpenRouter (no key yet) | ✅ Done |
-| Sun 25 | Ticket generator v1 → v2 → CSV → Supabase (KAN-12) | ✅ Done |
-| Sun 25 | Boss fight: Daniel, C+ pass (KAN-14) | ✅ Done |
-| Sun 25 | GitHub for Jira connected; debrief (KAN-15) | ✅ Done |
-| Mon 26 – Tue 27 | Read-only RLS rule + Vercel page + root README (KAN-13) | ⏳ To do |
+| When            | What                                                                                      | Status   |
+| --------------- | ----------------------------------------------------------------------------------------- | -------- |
+| Thu 22          | Karpathy talk → LLM basics quiz, 4/5                                                      | ✅ Done  |
+| Sat 24          | Repo skeleton (`0b7258b`)                                                                 | ✅ Done  |
+| Sun 25          | Accounts: Supabase (Asia-Pacific, automatic RLS), Vercel (Hobby), OpenRouter (no key yet) | ✅ Done  |
+| Sun 25          | Ticket generator v1 → v2 → CSV → Supabase (KAN-12)                                        | ✅ Done  |
+| Sun 25          | Boss fight: Daniel, C+ pass (KAN-14)                                                      | ✅ Done  |
+| Sun 25          | GitHub for Jira connected; debrief (KAN-15)                                               | ✅ Done  |
+| Mon 26 – Tue 27 | Read-only RLS rule + Vercel page + root README (KAN-13)                                   | ⏳ To do |
 
 **Wrap-up (25 Oct)**
+
 - **Shipped:** ticket generator v2 and 500 tickets in Supabase, data README, boss-fight write-up.
 - **Struggled with:** the generator code itself. 15+ new Python ideas in one afternoon.
 - **Missed:** skipped every prediction prompt.
@@ -44,13 +45,13 @@
 
 ## Week 2 plan (about 1 hr/day, Mon 26 – Thu 29)
 
-| Day | Plan |
-| --- | --- |
-| Mon 26 | 15-min explain-back on the generator · read-only RLS rule · start Vercel page |
-| Tue 27 | Finish Vercel page + root README → Week 1 closed |
-| Wed 28 | Concepts: tokens, input vs output price, cost per answer. Cost sheet by hand, no code |
-| Thu 29 | Boss fight: stakeholder map (spot the blocker) |
-| Sun 15 Nov | Catch-up: OpenRouter 3-model × 20-ticket mission |
+| Day        | Plan                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------- |
+| Mon 26     | 15-min explain-back on the generator · read-only RLS rule · start Vercel page         |
+| Tue 27     | Finish Vercel page + root README → Week 1 closed                                      |
+| Wed 28     | Concepts: tokens, input vs output price, cost per answer. Cost sheet by hand, no code |
+| Thu 29     | Boss fight: stakeholder map (spot the blocker)                                        |
+| Sun 15 Nov | Catch-up: OpenRouter 3-model × 20-ticket mission                                      |
 
 Pending: exact daily start times (for calendar blocks); carry-over notes for KAN-17 (messy complaint text, week 3) and KAN-20 (orders dataset, week 6).
 
@@ -66,19 +67,19 @@ See [`data/README.md`](data/README.md) for the full schema.
 
 ## Shipped
 
-| Date | What | Commits |
-| --- | --- | --- |
-| Sat 24 Oct | Repo skeleton | `0b7258b` |
-| Sun 25 Oct | Ticket generator + 500 tickets | `6007067`, `8d66280` |
-| Sun 25 Oct | Generator v2 + data README | `575fc99` |
-| Sun 25 Oct | Boss-fight write-up | `d7357fc` |
-| Sun 25 Oct | Supabase `tickets` table, 500 rows | — |
+| Date       | What                               | Commits              |
+| ---------- | ---------------------------------- | -------------------- |
+| Sat 24 Oct | Repo skeleton                      | `0b7258b`            |
+| Sun 25 Oct | Ticket generator + 500 tickets     | `6007067`, `8d66280` |
+| Sun 25 Oct | Generator v2 + data README         | `575fc99`            |
+| Sun 25 Oct | Boss-fight write-up                | `d7357fc`            |
+| Sun 25 Oct | Supabase `tickets` table, 500 rows | —                    |
 
 ## Boss fights
 
-| Week | Character | Win condition | Grade | XP | Missed / practise |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Daniel | Get him to name one number | C+ (pass) | +6 | Got the 9-day story wrong; no "by when?"; "right answers" unmeasured; ignored Helen. **Practise: ask, then stop talking.** |
+| Week | Character | Win condition              | Grade     | XP  | Missed / practise                                                                                                          |
+| ---- | --------- | -------------------------- | --------- | --- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Daniel    | Get him to name one number | C+ (pass) | +6  | Got the 9-day story wrong; no "by when?"; "right answers" unmeasured; ignored Helen. **Practise: ask, then stop talking.** |
 
 Full write-ups: [`consulting/boss-fights/`](consulting/boss-fights/).
 
