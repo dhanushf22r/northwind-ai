@@ -1,501 +1,501 @@
-ticket_id,customer,order_id,complaint,urgency
-NW-0001,Harbour Foods Ltd,ORD-48213,Pallet shows as in Rotterdam for 9 days. Where is it?,high
-NW-0002,Coastline Furniture,ORD-13278,Can you send proof of delivery for last week's order?,low
-NW-0003,Kestrel Auto Parts,ORD-28289,Can you send proof of delivery for last week's order?,low
-NW-0004,Westbrook Sports,ORD-21395,Your claim form keeps rejecting our upload.,low
-NW-0005,Harbour Foods Ltd,ORD-22280,Can't find my order on your website using the order number.,low
-NW-0006,Elmfield Books,ORD-13478,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0007,Westbrook Sports,ORD-64987,Two boxes in the shipment were damaged.,low
-NW-0008,Bluewater Beverages,ORD-10851,Your phone line kept me on hold for 40 minutes.,medium
-NW-0009,Ridgeway Toys,ORD-54597,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0010,Halden Medical,ORD-23396,Your estimated delivery date has changed four times.,low
-NW-0011,Thornbury Paper Co,ORD-55082,What is your refund policy for missed collections?,low
-NW-0012,Pennine Steel,ORD-70217,How do I claim for damaged goods?,low
-NW-0013,Silverline Cosmetics,ORD-20328,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0014,Elmfield Books,ORD-57400,Want a refund for the late delivery as per our agreement.,low
-NW-0015,Brightwell Pharmacy,ORD-16006,Hazardous goods label missing on our delivery note.,low
-NW-0016,Oakridge Building Supplies,ORD-20458,Driver was rude to our warehouse staff.,low
-NW-0017,Coastline Furniture,ORD-59823,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0018,Thornbury Paper Co,ORD-31319,Only 8 of 12 pallets were delivered.,low
-NW-0019,Bluewater Beverages,ORD-99593,Can you transport lithium batteries?,low
-NW-0020,Ashford Garden Supply,ORD-80010,Who is our account manager now?,low
-NW-0021,Fairmont Wine Imports,ORD-59735,Refrigerated goods arrived warm. The whole load is spoiled.,high
-NW-0022,Westbrook Sports,ORD-38785,Need to change the delivery address on an existing order.,low
-NW-0023,Pennine Steel,ORD-40021,Is your Leeds warehouse open on Saturdays?,low
-NW-0024,Halden Medical,ORD-62581,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0025,Cobalt Machinery,ORD-51245,Can't find my order on your website using the order number.,medium
-NW-0026,Silverline Cosmetics,ORD-94259,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0027,Northgate Electronics,ORD-42325,Can you send proof of delivery for last week's order?,medium
-NW-0028,Bluewater Beverages,ORD-86622,Invoice amount does not match the quote.,high
-NW-0029,Silverline Cosmetics,ORD-57447,Two boxes in the shipment were damaged.,high
-NW-0030,Northgate Electronics,ORD-76784,Invoice has the wrong VAT number.,low
-NW-0031,Pennine Steel,ORD-24371,Tracking says delivered but nothing arrived.,medium
-NW-0032,Ridgeway Toys,ORD-88172,Order stuck at the Felixstowe depot for a week.,low
-NW-0033,Elmfield Books,ORD-71348,Need a copy of an invoice from last March.,low
-NW-0034,Westbrook Sports,ORD-11504,Need to change the delivery address on an existing order.,medium
-NW-0035,Westbrook Sports,ORD-44973,Nobody replied to my email from last week.,medium
-NW-0036,Coastline Furniture,ORD-48469,Invoice amount does not match the quote.,low
-NW-0037,Harbour Foods Ltd,ORD-44522,"Why was there a waiting time charge? Your driver was late, not us.",medium
-NW-0038,Lowland Dairy,ORD-23947,Do you need an export declaration for goods to Norway?,low
-NW-0039,Lowland Dairy,ORD-89818,"Tracking shows our goods in Manchester, but they were going to Bristol.",low
-NW-0040,Ashford Garden Supply,ORD-80697,Nobody replied to my email from last week.,high
-NW-0041,Harbour Foods Ltd,ORD-88504,Seal on the container was broken on arrival.,low
-NW-0042,Coastline Furniture,ORD-57576,Can you deliver to a site with no loading bay?,medium
-NW-0043,Kestrel Auto Parts,ORD-17592,Pallet was wrapped badly and half the cartons were crushed.,high
-NW-0044,Brightwell Pharmacy,ORD-21226,Who is our account manager now?,low
-NW-0045,Brightwell Pharmacy,ORD-79822,Nobody replied to my email from last week.,low
-NW-0046,Granite Office Supplies,ORD-82063,The tracking link in your email doesn't work.,low
-NW-0047,Elmfield Books,ORD-65461,Can't find my order on your website using the order number.,high
-NW-0048,Meridian Textiles,ORD-50857,Driver refused to unload at our site.,high
-NW-0049,Thornbury Paper Co,ORD-67422,Need a copy of an invoice from last March.,low
-NW-0050,Kestrel Auto Parts,ORD-39451,Order stuck at the Felixstowe depot for a week.,low
-NW-0051,Cobalt Machinery,ORD-82603,Two boxes in the shipment were damaged.,medium
-NW-0052,Harbour Foods Ltd,ORD-19305,Can we book a regular weekly collection?,medium
-NW-0053,Kestrel Auto Parts,ORD-18834,Third late delivery this month. We're losing patience.,high
-NW-0054,Brightwell Pharmacy,ORD-77391,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0055,Granite Office Supplies,ORD-38080,How do I claim for damaged goods?,low
-NW-0056,Cobalt Machinery,ORD-85525,Still waiting for a credit note promised last month.,low
-NW-0057,Granite Office Supplies,ORD-63354,"Tracking shows our goods in Manchester, but they were going to Bristol.",low
-NW-0058,Ridgeway Toys,ORD-56438,Invoice amount does not match the quote.,low
-NW-0059,Pennine Steel,ORD-98259,Can you transport lithium batteries?,high
-NW-0060,Coastline Furniture,ORD-17944,Driver refused to unload at our site.,medium
-NW-0061,Coastline Furniture,ORD-42591,"Tracking shows our goods in Manchester, but they were going to Bristol.",low
-NW-0062,Fairmont Wine Imports,ORD-28373,Invoice amount does not match the quote.,low
-NW-0063,Fairmont Wine Imports,ORD-42742,Order stuck at the Felixstowe depot for a week.,low
-NW-0064,Westbrook Sports,ORD-22833,"Collection was booked for 9am, driver never showed up.",medium
-NW-0065,Westbrook Sports,ORD-11934,Your estimated delivery date has changed four times.,high
-NW-0066,Kestrel Auto Parts,ORD-31798,Delivery was left outside in the rain with no signature.,low
-NW-0067,Meridian Textiles,ORD-62565,"Collection was booked for 9am, driver never showed up.",low
-NW-0068,Harbour Foods Ltd,ORD-61173,Glass items arrived broken.,high
-NW-0069,Fairmont Wine Imports,ORD-47388,Invoice amount does not match the quote.,medium
-NW-0070,Westbrook Sports,ORD-96752,Can we book a regular weekly collection?,low
-NW-0071,Meridian Textiles,ORD-48890,Can't find my order on your website using the order number.,high
-NW-0072,Cobalt Machinery,ORD-81066,"Collection was booked for 9am, driver never showed up.",medium
-NW-0073,Pennine Steel,ORD-16572,Your claim form keeps rejecting our upload.,low
-NW-0074,Lowland Dairy,ORD-30635,"Collection was booked for 9am, driver never showed up.",high
-NW-0075,Brightwell Pharmacy,ORD-34356,Order stuck at the Felixstowe depot for a week.,medium
-NW-0076,Kestrel Auto Parts,ORD-62923,"Delivery window was 8-12, driver came at 6pm.",high
-NW-0077,Cobalt Machinery,ORD-42271,Your claim form keeps rejecting our upload.,medium
-NW-0078,Elmfield Books,ORD-20745,Delivery was left outside in the rain with no signature.,medium
-NW-0079,Cobalt Machinery,ORD-78522,Seal on the container was broken on arrival.,high
-NW-0080,Meridian Textiles,ORD-97782,Can we book a regular weekly collection?,low
-NW-0081,Bluewater Beverages,ORD-61876,Tracking page has not updated since Monday.,medium
-NW-0082,Oakridge Building Supplies,ORD-69929,Seal on the container was broken on arrival.,high
-NW-0083,Brightwell Pharmacy,ORD-11220,Fuel surcharge on our invoice wasn't in the contract.,medium
-NW-0084,Cobalt Machinery,ORD-23104,Order stuck at the Felixstowe depot for a week.,medium
-NW-0085,Lowland Dairy,ORD-44760,Tracking page has not updated since Monday.,high
-NW-0086,Brightwell Pharmacy,ORD-42018,Only 8 of 12 pallets were delivered.,low
-NW-0087,Fairmont Wine Imports,ORD-81200,Can we book a regular weekly collection?,low
-NW-0088,Lowland Dairy,ORD-11025,Hazardous goods label missing on our delivery note.,medium
-NW-0089,Oakridge Building Supplies,ORD-96951,Need this pallet before Friday or our production line stops.,high
-NW-0090,Northgate Electronics,ORD-44664,"Delivery window was 8-12, driver came at 6pm.",high
-NW-0091,Westbrook Sports,ORD-30374,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0092,Meridian Textiles,ORD-54942,Can't find my order on your website using the order number.,medium
-NW-0093,Bluewater Beverages,ORD-76244,Invoice has the wrong VAT number.,low
-NW-0094,Pennine Steel,ORD-22097,Do you need an export declaration for goods to Norway?,low
-NW-0095,Bluewater Beverages,ORD-15778,Delivery arrived two days late.,low
-NW-0096,Northgate Electronics,ORD-93507,Glass items arrived broken.,low
-NW-0097,Fairmont Wine Imports,ORD-82309,Can we book a regular weekly collection?,low
-NW-0098,Harbour Foods Ltd,ORD-24663,Order stuck at the Felixstowe depot for a week.,high
-NW-0099,Northgate Electronics,ORD-81511,Third late delivery this month. We're losing patience.,medium
-NW-0100,Cobalt Machinery,ORD-82420,Tracking says delivered but nothing arrived.,low
-NW-0101,Pennine Steel,ORD-50404,Only 8 of 12 pallets were delivered.,high
-NW-0102,Pennine Steel,ORD-56898,Can't find my order on your website using the order number.,medium
-NW-0103,Coastline Furniture,ORD-56357,Nobody replied to my email from last week.,medium
-NW-0104,Ridgeway Toys,ORD-91351,Can you send proof of delivery for last week's order?,low
-NW-0105,Kestrel Auto Parts,ORD-31299,Can you quote for 20 pallets to Glasgow?,medium
-NW-0106,Ridgeway Toys,ORD-13248,Status has said 'in transit' for 11 days.,medium
-NW-0107,Halden Medical,ORD-63964,Can you quote for 20 pallets to Glasgow?,medium
-NW-0108,Kestrel Auto Parts,ORD-44970,The tracking link in your email doesn't work.,medium
-NW-0109,Coastline Furniture,ORD-60140,Third late delivery this month. We're losing patience.,high
-NW-0110,Kestrel Auto Parts,ORD-36158,Is your Leeds warehouse open on Saturdays?,high
-NW-0111,Thornbury Paper Co,ORD-50001,Is your Leeds warehouse open on Saturdays?,medium
-NW-0112,Kestrel Auto Parts,ORD-39219,Our shipment was due Tuesday and still hasn't arrived.,medium
-NW-0113,Silverline Cosmetics,ORD-53025,Refrigerated goods arrived warm. The whole load is spoiled.,high
-NW-0114,Bluewater Beverages,ORD-56025,Can you transport lithium batteries?,medium
-NW-0115,Westbrook Sports,ORD-53404,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0116,Bluewater Beverages,ORD-33405,Your claim form keeps rejecting our upload.,high
-NW-0117,Bluewater Beverages,ORD-15014,Need this pallet before Friday or our production line stops.,medium
-NW-0118,Thornbury Paper Co,ORD-51114,Invoice amount does not match the quote.,medium
-NW-0119,Lowland Dairy,ORD-25157,Goods went to our old address even though we updated it.,high
-NW-0120,Meridian Textiles,ORD-43386,Third late delivery this month. We're losing patience.,medium
-NW-0121,Harbour Foods Ltd,ORD-78146,Can you quote for 20 pallets to Glasgow?,medium
-NW-0122,Meridian Textiles,ORD-57739,Invoice amount does not match the quote.,low
-NW-0123,Halden Medical,ORD-91678,Seal on the container was broken on arrival.,medium
-NW-0124,Coastline Furniture,ORD-49363,"Why was there a waiting time charge? Your driver was late, not us.",low
-NW-0125,Ridgeway Toys,ORD-52753,Driver refused to unload at our site.,medium
-NW-0126,Westbrook Sports,ORD-26683,"Tracking shows our goods in Manchester, but they were going to Bristol.",low
-NW-0127,Silverline Cosmetics,ORD-98777,Can you send proof of delivery for last week's order?,high
-NW-0128,Elmfield Books,ORD-84593,"Packaging was wet when it arrived, stock is ruined.",low
-NW-0129,Harbour Foods Ltd,ORD-49829,Forklift damage on three pallets.,low
-NW-0130,Cobalt Machinery,ORD-89516,Can you transport lithium batteries?,low
-NW-0131,Fairmont Wine Imports,ORD-67954,Need to change the delivery address on an existing order.,low
-NW-0132,Granite Office Supplies,ORD-32241,Hazardous goods label missing on our delivery note.,low
-NW-0133,Lowland Dairy,ORD-97012,Do you need an export declaration for goods to Norway?,medium
-NW-0134,Brightwell Pharmacy,ORD-40784,Need to change the delivery address on an existing order.,low
-NW-0135,Meridian Textiles,ORD-29313,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0136,Granite Office Supplies,ORD-90120,Driver was rude to our warehouse staff.,medium
-NW-0137,Fairmont Wine Imports,ORD-64321,Do you need an export declaration for goods to Norway?,medium
-NW-0138,Silverline Cosmetics,ORD-74799,Driver refused to unload at our site.,low
-NW-0139,Harbour Foods Ltd,ORD-23970,Nobody replied to my email from last week.,low
-NW-0140,Ashford Garden Supply,ORD-77889,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0141,Kestrel Auto Parts,ORD-25906,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0142,Fairmont Wine Imports,ORD-97500,Need a copy of an invoice from last March.,high
-NW-0143,Elmfield Books,ORD-51588,Your phone line kept me on hold for 40 minutes.,high
-NW-0144,Elmfield Books,ORD-76162,Invoice amount does not match the quote.,medium
-NW-0145,Westbrook Sports,ORD-68446,The tracking link in your email doesn't work.,medium
-NW-0146,Granite Office Supplies,ORD-68991,Glass items arrived broken.,medium
-NW-0147,Bluewater Beverages,ORD-78327,Invoice has the wrong VAT number.,medium
-NW-0148,Bluewater Beverages,ORD-67654,Order stuck at the Felixstowe depot for a week.,medium
-NW-0149,Kestrel Auto Parts,ORD-45614,Driver left the goods at the wrong dock.,low
-NW-0150,Westbrook Sports,ORD-20561,Tracking page has not updated since Monday.,low
-NW-0151,Silverline Cosmetics,ORD-30028,Can we book a regular weekly collection?,low
-NW-0152,Ridgeway Toys,ORD-63424,Driver left the goods at the wrong dock.,medium
-NW-0153,Ridgeway Toys,ORD-18161,Can't find my order on your website using the order number.,medium
-NW-0154,Silverline Cosmetics,ORD-86556,How do I add a new user to our account?,low
-NW-0155,Cobalt Machinery,ORD-59857,Still waiting for a credit note promised last month.,low
-NW-0156,Thornbury Paper Co,ORD-49139,Your phone line kept me on hold for 40 minutes.,low
-NW-0157,Ridgeway Toys,ORD-80545,Can you send proof of delivery for last week's order?,medium
-NW-0158,Elmfield Books,ORD-38906,Invoice has the wrong VAT number.,low
-NW-0159,Ridgeway Toys,ORD-73654,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0160,Silverline Cosmetics,ORD-31632,Can you deliver to a site with no loading bay?,low
-NW-0161,Northgate Electronics,ORD-91560,How do I claim for damaged goods?,low
-NW-0162,Silverline Cosmetics,ORD-87580,Want a refund for the late delivery as per our agreement.,medium
-NW-0163,Brightwell Pharmacy,ORD-94246,Invoice amount does not match the quote.,low
-NW-0164,Fairmont Wine Imports,ORD-33819,"Collection was booked for 9am, driver never showed up.",low
-NW-0165,Halden Medical,ORD-37742,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0166,Silverline Cosmetics,ORD-46471,Your phone line kept me on hold for 40 minutes.,high
-NW-0167,Ridgeway Toys,ORD-43065,Can you deliver to a site with no loading bay?,low
-NW-0168,Harbour Foods Ltd,ORD-80702,"Collection was booked for 9am, driver never showed up.",high
-NW-0169,Thornbury Paper Co,ORD-39389,Can you transport lithium batteries?,low
-NW-0170,Pennine Steel,ORD-14067,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0171,Harbour Foods Ltd,ORD-91439,Tracking says delivered but nothing arrived.,low
-NW-0172,Granite Office Supplies,ORD-97747,"Delivery window was 8-12, driver came at 6pm.",medium
-NW-0173,Meridian Textiles,ORD-70952,How do I add a new user to our account?,low
-NW-0174,Thornbury Paper Co,ORD-31992,What is your refund policy for missed collections?,medium
-NW-0175,Coastline Furniture,ORD-31465,"Packaging was wet when it arrived, stock is ruined.",low
-NW-0176,Harbour Foods Ltd,ORD-50888,Want a refund for the late delivery as per our agreement.,medium
-NW-0177,Silverline Cosmetics,ORD-61990,Can we book a regular weekly collection?,low
-NW-0178,Cobalt Machinery,ORD-92213,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0179,Oakridge Building Supplies,ORD-99687,What is your refund policy for missed collections?,medium
-NW-0180,Cobalt Machinery,ORD-15383,We received someone else's order.,medium
-NW-0181,Thornbury Paper Co,ORD-19038,"Why was there a waiting time charge? Your driver was late, not us.",medium
-NW-0182,Harbour Foods Ltd,ORD-65057,Is your Leeds warehouse open on Saturdays?,low
-NW-0183,Ridgeway Toys,ORD-57472,Do you need an export declaration for goods to Norway?,high
-NW-0184,Fairmont Wine Imports,ORD-30052,Invoice amount does not match the quote.,low
-NW-0185,Lowland Dairy,ORD-95256,Refrigerated goods arrived warm. The whole load is spoiled.,medium
-NW-0186,Westbrook Sports,ORD-73372,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0187,Cobalt Machinery,ORD-45179,Seal on the container was broken on arrival.,high
-NW-0188,Brightwell Pharmacy,ORD-46559,We were charged twice for the same shipment.,low
-NW-0189,Fairmont Wine Imports,ORD-84691,Shipment held at customs. What paperwork is missing?,medium
-NW-0190,Halden Medical,ORD-13761,Invoice has the wrong VAT number.,high
-NW-0191,Ashford Garden Supply,ORD-73904,Can't find my order on your website using the order number.,low
-NW-0192,Bluewater Beverages,ORD-54608,Refrigerated goods arrived warm. The whole load is spoiled.,high
-NW-0193,Bluewater Beverages,ORD-82848,Delivery arrived two days late.,medium
-NW-0194,Meridian Textiles,ORD-21221,Pallet was wrapped badly and half the cartons were crushed.,medium
-NW-0195,Granite Office Supplies,ORD-82768,Your phone line kept me on hold for 40 minutes.,low
-NW-0196,Granite Office Supplies,ORD-94659,Can we book a regular weekly collection?,low
-NW-0197,Harbour Foods Ltd,ORD-22196,Forklift damage on three pallets.,low
-NW-0198,Kestrel Auto Parts,ORD-50135,Hazardous goods label missing on our delivery note.,medium
-NW-0199,Granite Office Supplies,ORD-82544,Need a copy of an invoice from last March.,low
-NW-0200,Westbrook Sports,ORD-53357,We received someone else's order.,medium
-NW-0201,Bluewater Beverages,ORD-50189,Glass items arrived broken.,low
-NW-0202,Meridian Textiles,ORD-51359,"Delivery window was 8-12, driver came at 6pm.",medium
-NW-0203,Ashford Garden Supply,ORD-35105,Can't find my order on your website using the order number.,medium
-NW-0204,Bluewater Beverages,ORD-87278,Your phone line kept me on hold for 40 minutes.,medium
-NW-0205,Oakridge Building Supplies,ORD-23176,Can you deliver to a site with no loading bay?,low
-NW-0206,Kestrel Auto Parts,ORD-57301,Status has said 'in transit' for 11 days.,low
-NW-0207,Westbrook Sports,ORD-26591,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0208,Pennine Steel,ORD-82529,Forklift damage on three pallets.,medium
-NW-0209,Northgate Electronics,ORD-93606,Your phone line kept me on hold for 40 minutes.,low
-NW-0210,Harbour Foods Ltd,ORD-85243,Forklift damage on three pallets.,low
-NW-0211,Fairmont Wine Imports,ORD-54657,Status has said 'in transit' for 11 days.,high
-NW-0212,Bluewater Beverages,ORD-72616,"Delivery window was 8-12, driver came at 6pm.",medium
-NW-0213,Silverline Cosmetics,ORD-74454,Order stuck at the Felixstowe depot for a week.,medium
-NW-0214,Pennine Steel,ORD-29887,Tracking says delivered but nothing arrived.,medium
-NW-0215,Oakridge Building Supplies,ORD-21164,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0216,Ridgeway Toys,ORD-89471,What is your refund policy for missed collections?,medium
-NW-0217,Kestrel Auto Parts,ORD-78494,Goods went to our old address even though we updated it.,low
-NW-0218,Fairmont Wine Imports,ORD-48974,Your claim form keeps rejecting our upload.,high
-NW-0219,Oakridge Building Supplies,ORD-84531,Shipment held at customs. What paperwork is missing?,low
-NW-0220,Coastline Furniture,ORD-37235,Do you need an export declaration for goods to Norway?,low
-NW-0221,Brightwell Pharmacy,ORD-30585,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0222,Brightwell Pharmacy,ORD-30517,Delivery arrived two days late.,low
-NW-0223,Elmfield Books,ORD-71592,Forklift damage on three pallets.,low
-NW-0224,Oakridge Building Supplies,ORD-47056,How do I add a new user to our account?,high
-NW-0225,Brightwell Pharmacy,ORD-40595,Glass items arrived broken.,medium
-NW-0226,Cobalt Machinery,ORD-96662,Can you quote for 20 pallets to Glasgow?,high
-NW-0227,Ridgeway Toys,ORD-25043,How do I claim for damaged goods?,low
-NW-0228,Northgate Electronics,ORD-44816,Is your Leeds warehouse open on Saturdays?,low
-NW-0229,Pennine Steel,ORD-31747,Want to cancel the order booked for tomorrow.,low
-NW-0230,Cobalt Machinery,ORD-47828,We were charged twice for the same shipment.,low
-NW-0231,Oakridge Building Supplies,ORD-62757,Refrigerated goods arrived warm. The whole load is spoiled.,medium
-NW-0232,Granite Office Supplies,ORD-67377,Your estimated delivery date has changed four times.,medium
-NW-0233,Ridgeway Toys,ORD-52247,What is your refund policy for missed collections?,low
-NW-0234,Brightwell Pharmacy,ORD-40005,Need to change the delivery address on an existing order.,medium
-NW-0235,Cobalt Machinery,ORD-86955,Our shipment was due Tuesday and still hasn't arrived.,high
-NW-0236,Bluewater Beverages,ORD-85529,Third late delivery this month. We're losing patience.,medium
-NW-0237,Ashford Garden Supply,ORD-71669,Need a copy of an invoice from last March.,medium
-NW-0238,Bluewater Beverages,ORD-33788,Your claim form keeps rejecting our upload.,low
-NW-0239,Granite Office Supplies,ORD-21959,Still waiting for a credit note promised last month.,low
-NW-0240,Halden Medical,ORD-52081,Hazardous goods label missing on our delivery note.,low
-NW-0241,Ashford Garden Supply,ORD-53228,Delivery was left outside in the rain with no signature.,medium
-NW-0242,Oakridge Building Supplies,ORD-96846,Driver refused to unload at our site.,medium
-NW-0243,Westbrook Sports,ORD-14809,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0244,Bluewater Beverages,ORD-52372,"Delivery window was 8-12, driver came at 6pm.",high
-NW-0245,Silverline Cosmetics,ORD-77449,Is your Leeds warehouse open on Saturdays?,high
-NW-0246,Westbrook Sports,ORD-70552,Delivery was left outside in the rain with no signature.,low
-NW-0247,Lowland Dairy,ORD-57419,Shipment held at customs. What paperwork is missing?,medium
-NW-0248,Fairmont Wine Imports,ORD-16764,Can't find my order on your website using the order number.,low
-NW-0249,Northgate Electronics,ORD-47752,We were charged twice for the same shipment.,high
-NW-0250,Granite Office Supplies,ORD-25915,Our shipment was due Tuesday and still hasn't arrived.,high
-NW-0251,Elmfield Books,ORD-41365,Can we book a regular weekly collection?,low
-NW-0252,Westbrook Sports,ORD-11792,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0253,Kestrel Auto Parts,ORD-24871,Fuel surcharge on our invoice wasn't in the contract.,high
-NW-0254,Northgate Electronics,ORD-75323,Can we book a regular weekly collection?,low
-NW-0255,Bluewater Beverages,ORD-64459,Can you deliver to a site with no loading bay?,low
-NW-0256,Granite Office Supplies,ORD-41946,Fuel surcharge on our invoice wasn't in the contract.,medium
-NW-0257,Silverline Cosmetics,ORD-34983,What is your refund policy for missed collections?,medium
-NW-0258,Northgate Electronics,ORD-19150,Refrigerated goods arrived warm. The whole load is spoiled.,medium
-NW-0259,Ridgeway Toys,ORD-54548,Want to cancel the order booked for tomorrow.,medium
-NW-0260,Harbour Foods Ltd,ORD-47072,Who is our account manager now?,low
-NW-0261,Cobalt Machinery,ORD-86011,Hazardous goods label missing on our delivery note.,low
-NW-0262,Northgate Electronics,ORD-68529,How do I claim for damaged goods?,low
-NW-0263,Halden Medical,ORD-82340,Your phone line kept me on hold for 40 minutes.,medium
-NW-0264,Fairmont Wine Imports,ORD-52176,"Tracking shows our goods in Manchester, but they were going to Bristol.",high
-NW-0265,Kestrel Auto Parts,ORD-84946,Goods went to our old address even though we updated it.,low
-NW-0266,Ridgeway Toys,ORD-15720,Seal on the container was broken on arrival.,medium
-NW-0267,Silverline Cosmetics,ORD-60604,Hazardous goods label missing on our delivery note.,medium
-NW-0268,Northgate Electronics,ORD-74923,Third late delivery this month. We're losing patience.,low
-NW-0269,Cobalt Machinery,ORD-53515,Need this pallet before Friday or our production line stops.,high
-NW-0270,Fairmont Wine Imports,ORD-23069,Need a copy of an invoice from last March.,high
-NW-0271,Harbour Foods Ltd,ORD-28894,Delivery was left outside in the rain with no signature.,high
-NW-0272,Northgate Electronics,ORD-19807,Still waiting for a credit note promised last month.,medium
-NW-0273,Bluewater Beverages,ORD-54375,Shipment held at customs. What paperwork is missing?,medium
-NW-0274,Brightwell Pharmacy,ORD-53065,Driver was rude to our warehouse staff.,medium
-NW-0275,Westbrook Sports,ORD-59808,Seal on the container was broken on arrival.,medium
-NW-0276,Granite Office Supplies,ORD-80912,Third late delivery this month. We're losing patience.,medium
-NW-0277,Kestrel Auto Parts,ORD-92727,Need to change the delivery address on an existing order.,high
-NW-0278,Kestrel Auto Parts,ORD-21846,Invoice amount does not match the quote.,high
-NW-0279,Coastline Furniture,ORD-68153,The tracking link in your email doesn't work.,medium
-NW-0280,Harbour Foods Ltd,ORD-16028,Seal on the container was broken on arrival.,medium
-NW-0281,Oakridge Building Supplies,ORD-56984,Only 8 of 12 pallets were delivered.,low
-NW-0282,Kestrel Auto Parts,ORD-79621,Delivery was left outside in the rain with no signature.,medium
-NW-0283,Ashford Garden Supply,ORD-32280,Status has said 'in transit' for 11 days.,low
-NW-0284,Silverline Cosmetics,ORD-91226,Need to change the delivery address on an existing order.,low
-NW-0285,Cobalt Machinery,ORD-28758,Two boxes in the shipment were damaged.,low
-NW-0286,Bluewater Beverages,ORD-70236,Glass items arrived broken.,medium
-NW-0287,Fairmont Wine Imports,ORD-47700,Need to change the delivery address on an existing order.,medium
-NW-0288,Brightwell Pharmacy,ORD-67898,We received someone else's order.,high
-NW-0289,Oakridge Building Supplies,ORD-93746,Invoice amount does not match the quote.,medium
-NW-0290,Fairmont Wine Imports,ORD-49599,"Tracking shows our goods in Manchester, but they were going to Bristol.",high
-NW-0291,Granite Office Supplies,ORD-23979,Pallet was wrapped badly and half the cartons were crushed.,low
-NW-0292,Thornbury Paper Co,ORD-85341,Forklift damage on three pallets.,high
-NW-0293,Oakridge Building Supplies,ORD-12875,Can you deliver to a site with no loading bay?,medium
-NW-0294,Bluewater Beverages,ORD-11061,Want a refund for the late delivery as per our agreement.,high
-NW-0295,Pennine Steel,ORD-89482,Can you send proof of delivery for last week's order?,low
-NW-0296,Oakridge Building Supplies,ORD-40162,What is your refund policy for missed collections?,medium
-NW-0297,Kestrel Auto Parts,ORD-93442,"Tracking shows our goods in Manchester, but they were going to Bristol.",medium
-NW-0298,Northgate Electronics,ORD-92345,Need this pallet before Friday or our production line stops.,high
-NW-0299,Pennine Steel,ORD-50492,Want to cancel the order booked for tomorrow.,low
-NW-0300,Cobalt Machinery,ORD-57823,Who is our account manager now?,low
-NW-0301,Oakridge Building Supplies,ORD-52823,Can you send proof of delivery for last week's order?,low
-NW-0302,Meridian Textiles,ORD-27322,Want to cancel the order booked for tomorrow.,medium
-NW-0303,Thornbury Paper Co,ORD-79579,"Why was there a waiting time charge? Your driver was late, not us.",high
-NW-0304,Ashford Garden Supply,ORD-43681,Is your Leeds warehouse open on Saturdays?,high
-NW-0305,Oakridge Building Supplies,ORD-54396,Can you quote for 20 pallets to Glasgow?,low
-NW-0306,Brightwell Pharmacy,ORD-28449,Your phone line kept me on hold for 40 minutes.,high
-NW-0307,Silverline Cosmetics,ORD-83048,Only 8 of 12 pallets were delivered.,low
-NW-0308,Silverline Cosmetics,ORD-11824,Glass items arrived broken.,medium
-NW-0309,Fairmont Wine Imports,ORD-58311,Need to change the delivery address on an existing order.,medium
-NW-0310,Bluewater Beverages,ORD-86619,Goods went to our old address even though we updated it.,medium
-NW-0311,Thornbury Paper Co,ORD-24201,Need to change the delivery address on an existing order.,low
-NW-0312,Harbour Foods Ltd,ORD-91205,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0313,Elmfield Books,ORD-39015,Can you transport lithium batteries?,low
-NW-0314,Fairmont Wine Imports,ORD-49608,Can you transport lithium batteries?,low
-NW-0315,Northgate Electronics,ORD-15943,Third late delivery this month. We're losing patience.,low
-NW-0316,Granite Office Supplies,ORD-25220,Need this pallet before Friday or our production line stops.,low
-NW-0317,Westbrook Sports,ORD-27781,Goods went to our old address even though we updated it.,low
-NW-0318,Westbrook Sports,ORD-64935,Your claim form keeps rejecting our upload.,medium
-NW-0319,Northgate Electronics,ORD-64379,Can you transport lithium batteries?,low
-NW-0320,Granite Office Supplies,ORD-90694,Delivery was left outside in the rain with no signature.,high
-NW-0321,Bluewater Beverages,ORD-14288,How do I add a new user to our account?,low
-NW-0322,Fairmont Wine Imports,ORD-68287,Pallet was wrapped badly and half the cartons were crushed.,high
-NW-0323,Coastline Furniture,ORD-99873,Only 8 of 12 pallets were delivered.,medium
-NW-0324,Thornbury Paper Co,ORD-17936,Driver refused to unload at our site.,low
-NW-0325,Coastline Furniture,ORD-69600,Your estimated delivery date has changed four times.,medium
-NW-0326,Elmfield Books,ORD-12799,"Collection was booked for 9am, driver never showed up.",medium
-NW-0327,Kestrel Auto Parts,ORD-26505,Want to cancel the order booked for tomorrow.,medium
-NW-0328,Brightwell Pharmacy,ORD-82641,Can't find my order on your website using the order number.,medium
-NW-0329,Kestrel Auto Parts,ORD-53064,Nobody replied to my email from last week.,low
-NW-0330,Elmfield Books,ORD-10371,Refrigerated goods arrived warm. The whole load is spoiled.,high
-NW-0331,Northgate Electronics,ORD-27038,How do I claim for damaged goods?,low
-NW-0332,Ashford Garden Supply,ORD-24408,Hazardous goods label missing on our delivery note.,high
-NW-0333,Northgate Electronics,ORD-11947,We received someone else's order.,medium
-NW-0334,Kestrel Auto Parts,ORD-87182,Seal on the container was broken on arrival.,low
-NW-0335,Bluewater Beverages,ORD-16868,Tracking page has not updated since Monday.,medium
-NW-0336,Lowland Dairy,ORD-24896,Can you send proof of delivery for last week's order?,low
-NW-0337,Fairmont Wine Imports,ORD-57453,"Why was there a waiting time charge? Your driver was late, not us.",medium
-NW-0338,Fairmont Wine Imports,ORD-76039,Two boxes in the shipment were damaged.,high
-NW-0339,Pennine Steel,ORD-96363,Need a copy of an invoice from last March.,low
-NW-0340,Harbour Foods Ltd,ORD-17972,Still waiting for a credit note promised last month.,medium
-NW-0341,Ridgeway Toys,ORD-99928,Need this pallet before Friday or our production line stops.,low
-NW-0342,Fairmont Wine Imports,ORD-19632,Your estimated delivery date has changed four times.,low
-NW-0343,Northgate Electronics,ORD-18609,Tracking page has not updated since Monday.,low
-NW-0344,Cobalt Machinery,ORD-81874,Can we book a regular weekly collection?,low
-NW-0345,Elmfield Books,ORD-79541,Forklift damage on three pallets.,low
-NW-0346,Elmfield Books,ORD-66387,Need this pallet before Friday or our production line stops.,medium
-NW-0347,Coastline Furniture,ORD-95814,Can you transport lithium batteries?,high
-NW-0348,Westbrook Sports,ORD-38183,Invoice amount does not match the quote.,low
-NW-0349,Kestrel Auto Parts,ORD-64239,Driver left the goods at the wrong dock.,medium
-NW-0350,Silverline Cosmetics,ORD-64524,Who is our account manager now?,low
-NW-0351,Ridgeway Toys,ORD-50963,Hazardous goods label missing on our delivery note.,low
-NW-0352,Northgate Electronics,ORD-72163,Order stuck at the Felixstowe depot for a week.,low
-NW-0353,Brightwell Pharmacy,ORD-22219,Invoice amount does not match the quote.,low
-NW-0354,Thornbury Paper Co,ORD-27054,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0355,Westbrook Sports,ORD-83620,Driver left the goods at the wrong dock.,medium
-NW-0356,Ridgeway Toys,ORD-56346,Hazardous goods label missing on our delivery note.,high
-NW-0357,Ridgeway Toys,ORD-16743,Forklift damage on three pallets.,medium
-NW-0358,Thornbury Paper Co,ORD-23579,Want a refund for the late delivery as per our agreement.,medium
-NW-0359,Northgate Electronics,ORD-96079,Still waiting for a credit note promised last month.,low
-NW-0360,Coastline Furniture,ORD-55890,Driver was rude to our warehouse staff.,medium
-NW-0361,Coastline Furniture,ORD-46512,Want a refund for the late delivery as per our agreement.,low
-NW-0362,Ridgeway Toys,ORD-83526,Nobody replied to my email from last week.,medium
-NW-0363,Elmfield Books,ORD-98470,Can you transport lithium batteries?,medium
-NW-0364,Elmfield Books,ORD-96223,Can you deliver to a site with no loading bay?,medium
-NW-0365,Harbour Foods Ltd,ORD-33647,Refrigerated goods arrived warm. The whole load is spoiled.,medium
-NW-0366,Oakridge Building Supplies,ORD-54541,We received someone else's order.,low
-NW-0367,Northgate Electronics,ORD-84228,Hazardous goods label missing on our delivery note.,low
-NW-0368,Northgate Electronics,ORD-92991,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0369,Lowland Dairy,ORD-38197,Goods went to our old address even though we updated it.,low
-NW-0370,Halden Medical,ORD-30631,Only 8 of 12 pallets were delivered.,low
-NW-0371,Halden Medical,ORD-84395,What is your refund policy for missed collections?,low
-NW-0372,Pennine Steel,ORD-30392,The tracking link in your email doesn't work.,medium
-NW-0373,Pennine Steel,ORD-98338,Your estimated delivery date has changed four times.,low
-NW-0374,Ridgeway Toys,ORD-73656,What is your refund policy for missed collections?,low
-NW-0375,Bluewater Beverages,ORD-38255,Your phone line kept me on hold for 40 minutes.,medium
-NW-0376,Thornbury Paper Co,ORD-66349,"Delivery window was 8-12, driver came at 6pm.",low
-NW-0377,Cobalt Machinery,ORD-73783,Need a copy of an invoice from last March.,medium
-NW-0378,Pennine Steel,ORD-38903,Driver refused to unload at our site.,high
-NW-0379,Pennine Steel,ORD-11007,Can't find my order on your website using the order number.,low
-NW-0380,Meridian Textiles,ORD-27987,Your phone line kept me on hold for 40 minutes.,low
-NW-0381,Halden Medical,ORD-25726,Delivery arrived two days late.,low
-NW-0382,Ridgeway Toys,ORD-33028,Tracking page has not updated since Monday.,low
-NW-0383,Kestrel Auto Parts,ORD-75570,Submitted a claim 6 weeks ago and heard nothing.,medium
-NW-0384,Thornbury Paper Co,ORD-19447,Driver refused to unload at our site.,high
-NW-0385,Pennine Steel,ORD-67176,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0386,Brightwell Pharmacy,ORD-51033,Want a refund for the late delivery as per our agreement.,low
-NW-0387,Silverline Cosmetics,ORD-93904,Delivery was left outside in the rain with no signature.,low
-NW-0388,Silverline Cosmetics,ORD-12733,Seal on the container was broken on arrival.,low
-NW-0389,Elmfield Books,ORD-70305,Can you deliver to a site with no loading bay?,medium
-NW-0390,Thornbury Paper Co,ORD-21551,Invoice amount does not match the quote.,medium
-NW-0391,Kestrel Auto Parts,ORD-67104,Your claim form keeps rejecting our upload.,low
-NW-0392,Brightwell Pharmacy,ORD-61873,"Packaging was wet when it arrived, stock is ruined.",medium
-NW-0393,Kestrel Auto Parts,ORD-53655,Nobody replied to my email from last week.,low
-NW-0394,Lowland Dairy,ORD-92998,"Delivery window was 8-12, driver came at 6pm.",medium
-NW-0395,Meridian Textiles,ORD-55793,We received someone else's order.,medium
-NW-0396,Northgate Electronics,ORD-40968,Need this pallet before Friday or our production line stops.,low
-NW-0397,Meridian Textiles,ORD-32740,What is your refund policy for missed collections?,low
-NW-0398,Brightwell Pharmacy,ORD-33218,Nobody replied to my email from last week.,medium
-NW-0399,Fairmont Wine Imports,ORD-83889,Your phone line kept me on hold for 40 minutes.,medium
-NW-0400,Cobalt Machinery,ORD-94278,Do you need an export declaration for goods to Norway?,high
-NW-0401,Halden Medical,ORD-92210,Seal on the container was broken on arrival.,low
-NW-0402,Brightwell Pharmacy,ORD-71462,We were charged twice for the same shipment.,medium
-NW-0403,Bluewater Beverages,ORD-87518,"Collection was booked for 9am, driver never showed up.",low
-NW-0404,Brightwell Pharmacy,ORD-50685,Fuel surcharge on our invoice wasn't in the contract.,low
-NW-0405,Pennine Steel,ORD-58331,Can you deliver to a site with no loading bay?,low
-NW-0406,Brightwell Pharmacy,ORD-90610,What is your refund policy for missed collections?,medium
-NW-0407,Fairmont Wine Imports,ORD-86064,Submitted a claim 6 weeks ago and heard nothing.,high
-NW-0408,Pennine Steel,ORD-68947,Can you quote for 20 pallets to Glasgow?,medium
-NW-0409,Meridian Textiles,ORD-52143,What is your refund policy for missed collections?,low
-NW-0410,Northgate Electronics,ORD-18109,We were charged twice for the same shipment.,low
-NW-0411,Halden Medical,ORD-21053,"Why was there a waiting time charge? Your driver was late, not us.",medium
-NW-0412,Pennine Steel,ORD-42472,Can we book a regular weekly collection?,low
-NW-0413,Fairmont Wine Imports,ORD-78690,Need a copy of an invoice from last March.,medium
-NW-0414,Thornbury Paper Co,ORD-58870,Forklift damage on three pallets.,low
-NW-0415,Halden Medical,ORD-98984,What is your refund policy for missed collections?,low
-NW-0416,Halden Medical,ORD-18639,Driver left the goods at the wrong dock.,low
-NW-0417,Silverline Cosmetics,ORD-47243,Glass items arrived broken.,medium
-NW-0418,Elmfield Books,ORD-29709,Driver left the goods at the wrong dock.,low
-NW-0419,Northgate Electronics,ORD-55851,"Packaging was wet when it arrived, stock is ruined.",high
-NW-0420,Silverline Cosmetics,ORD-26901,What is your refund policy for missed collections?,medium
-NW-0421,Brightwell Pharmacy,ORD-50577,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0422,Halden Medical,ORD-26750,Hazardous goods label missing on our delivery note.,medium
-NW-0423,Lowland Dairy,ORD-22249,Can you transport lithium batteries?,medium
-NW-0424,Lowland Dairy,ORD-57425,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0425,Ashford Garden Supply,ORD-38074,Driver left the goods at the wrong dock.,high
-NW-0426,Granite Office Supplies,ORD-35166,Two boxes in the shipment were damaged.,high
-NW-0427,Northgate Electronics,ORD-20114,Forklift damage on three pallets.,medium
-NW-0428,Coastline Furniture,ORD-76543,Nobody replied to my email from last week.,medium
-NW-0429,Lowland Dairy,ORD-14947,Hazardous goods label missing on our delivery note.,low
-NW-0430,Elmfield Books,ORD-27176,What is your refund policy for missed collections?,low
-NW-0431,Ashford Garden Supply,ORD-33703,Can you deliver to a site with no loading bay?,medium
-NW-0432,Elmfield Books,ORD-31697,Who is our account manager now?,low
-NW-0433,Ridgeway Toys,ORD-57749,Need to change the delivery address on an existing order.,medium
-NW-0434,Fairmont Wine Imports,ORD-90031,Forklift damage on three pallets.,medium
-NW-0435,Fairmont Wine Imports,ORD-40671,How do I claim for damaged goods?,low
-NW-0436,Granite Office Supplies,ORD-35430,Only 8 of 12 pallets were delivered.,medium
-NW-0437,Cobalt Machinery,ORD-67749,Fuel surcharge on our invoice wasn't in the contract.,medium
-NW-0438,Silverline Cosmetics,ORD-75916,Need a copy of an invoice from last March.,low
-NW-0439,Ashford Garden Supply,ORD-36174,Can you quote for 20 pallets to Glasgow?,medium
-NW-0440,Bluewater Beverages,ORD-16839,Can you transport lithium batteries?,low
-NW-0441,Thornbury Paper Co,ORD-82684,Need this pallet before Friday or our production line stops.,medium
-NW-0442,Lowland Dairy,ORD-26341,Forklift damage on three pallets.,low
-NW-0443,Ashford Garden Supply,ORD-45755,We were charged twice for the same shipment.,high
-NW-0444,Northgate Electronics,ORD-67340,Your estimated delivery date has changed four times.,high
-NW-0445,Kestrel Auto Parts,ORD-69130,We received someone else's order.,high
-NW-0446,Ridgeway Toys,ORD-16980,Driver refused to unload at our site.,medium
-NW-0447,Kestrel Auto Parts,ORD-60615,Your estimated delivery date has changed four times.,low
-NW-0448,Harbour Foods Ltd,ORD-51770,Need this pallet before Friday or our production line stops.,medium
-NW-0449,Halden Medical,ORD-29142,Tracking page has not updated since Monday.,low
-NW-0450,Granite Office Supplies,ORD-28191,Your phone line kept me on hold for 40 minutes.,medium
-NW-0451,Fairmont Wine Imports,ORD-90654,Delivery arrived two days late.,high
-NW-0452,Harbour Foods Ltd,ORD-43544,Can't find my order on your website using the order number.,medium
-NW-0453,Westbrook Sports,ORD-89807,Need a copy of an invoice from last March.,low
-NW-0454,Oakridge Building Supplies,ORD-41147,"Packaging was wet when it arrived, stock is ruined.",low
-NW-0455,Kestrel Auto Parts,ORD-65027,Do you need an export declaration for goods to Norway?,medium
-NW-0456,Fairmont Wine Imports,ORD-18232,"Delivery window was 8-12, driver came at 6pm.",medium
-NW-0457,Granite Office Supplies,ORD-88215,How do I claim for damaged goods?,low
-NW-0458,Lowland Dairy,ORD-85372,Pallet was wrapped badly and half the cartons were crushed.,medium
-NW-0459,Oakridge Building Supplies,ORD-66261,Delivery arrived two days late.,medium
-NW-0460,Kestrel Auto Parts,ORD-84798,Delivery was left outside in the rain with no signature.,low
-NW-0461,Brightwell Pharmacy,ORD-78614,Only 8 of 12 pallets were delivered.,low
-NW-0462,Lowland Dairy,ORD-81313,"Why was there a waiting time charge? Your driver was late, not us.",medium
-NW-0463,Lowland Dairy,ORD-82633,Our shipment was due Tuesday and still hasn't arrived.,low
-NW-0464,Granite Office Supplies,ORD-15706,Do you need an export declaration for goods to Norway?,low
-NW-0465,Thornbury Paper Co,ORD-43246,Can you send proof of delivery for last week's order?,low
-NW-0466,Brightwell Pharmacy,ORD-55193,Pallet was wrapped badly and half the cartons were crushed.,medium
-NW-0467,Coastline Furniture,ORD-86271,Can you send proof of delivery for last week's order?,medium
-NW-0468,Northgate Electronics,ORD-15811,We received someone else's order.,medium
-NW-0469,Ashford Garden Supply,ORD-99742,Fuel surcharge on our invoice wasn't in the contract.,high
-NW-0470,Granite Office Supplies,ORD-92802,Status has said 'in transit' for 11 days.,medium
-NW-0471,Brightwell Pharmacy,ORD-69988,Third late delivery this month. We're losing patience.,low
-NW-0472,Pennine Steel,ORD-36144,Third late delivery this month. We're losing patience.,low
-NW-0473,Oakridge Building Supplies,ORD-77552,Driver refused to unload at our site.,high
-NW-0474,Westbrook Sports,ORD-72049,Glass items arrived broken.,low
-NW-0475,Meridian Textiles,ORD-47501,We received someone else's order.,high
-NW-0476,Pennine Steel,ORD-95948,Driver left the goods at the wrong dock.,low
-NW-0477,Thornbury Paper Co,ORD-67272,Driver refused to unload at our site.,medium
-NW-0478,Silverline Cosmetics,ORD-54438,Status has said 'in transit' for 11 days.,low
-NW-0479,Granite Office Supplies,ORD-58148,Can you quote for 20 pallets to Glasgow?,medium
-NW-0480,Brightwell Pharmacy,ORD-65640,Your estimated delivery date has changed four times.,low
-NW-0481,Ashford Garden Supply,ORD-81496,Forklift damage on three pallets.,low
-NW-0482,Brightwell Pharmacy,ORD-52981,Hazardous goods label missing on our delivery note.,low
-NW-0483,Fairmont Wine Imports,ORD-88986,Can we book a regular weekly collection?,low
-NW-0484,Fairmont Wine Imports,ORD-56077,We were charged twice for the same shipment.,low
-NW-0485,Thornbury Paper Co,ORD-90589,Invoice amount does not match the quote.,low
-NW-0486,Pennine Steel,ORD-19835,Hazardous goods label missing on our delivery note.,medium
-NW-0487,Thornbury Paper Co,ORD-77251,Can you quote for 20 pallets to Glasgow?,medium
-NW-0488,Ashford Garden Supply,ORD-14081,Tracking says delivered but nothing arrived.,medium
-NW-0489,Fairmont Wine Imports,ORD-14561,Tracking page has not updated since Monday.,low
-NW-0490,Thornbury Paper Co,ORD-57467,Goods went to our old address even though we updated it.,high
-NW-0491,Pennine Steel,ORD-89310,Tracking says delivered but nothing arrived.,medium
-NW-0492,Thornbury Paper Co,ORD-58760,We were charged twice for the same shipment.,medium
-NW-0493,Cobalt Machinery,ORD-28047,Need a copy of an invoice from last March.,low
-NW-0494,Halden Medical,ORD-95139,Refrigerated goods arrived warm. The whole load is spoiled.,low
-NW-0495,Coastline Furniture,ORD-13396,Can you send proof of delivery for last week's order?,low
-NW-0496,Lowland Dairy,ORD-60723,Submitted a claim 6 weeks ago and heard nothing.,low
-NW-0497,Bluewater Beverages,ORD-68493,Can't find my order on your website using the order number.,high
-NW-0498,Oakridge Building Supplies,ORD-74382,"Tracking shows our goods in Manchester, but they were going to Bristol.",low
-NW-0499,Brightwell Pharmacy,ORD-69250,Status has said 'in transit' for 11 days.,high
-NW-0500,Fairmont Wine Imports,ORD-21506,Can you quote for 20 pallets to Glasgow?,medium
+ticket_id,customer,order_id,complaint,urgency,category,created_at,first_response_hours,status
+NW-0001,Harbour Foods Ltd,ORD-48213,Pallet shows as in Rotterdam for 9 days. Where is it?,high,tracking,2026-10-16 09:00,216,answered
+NW-0002,Kestrel Auto Parts,ORD-39256,Tracking says delivered but nothing arrived.,medium,tracking,2026-10-23 05:00,,awaiting_response
+NW-0003,Harbour Foods Ltd,ORD-22280,Tracking says delivered but nothing arrived.,low,tracking,2026-09-04 23:00,81,answered
+NW-0004,Westbrook Sports,ORD-64987,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-09-07 11:00,56,answered
+NW-0005,Ashford Garden Supply,ORD-65392,Fuel surcharge on our invoice wasn't in the contract.,low,billing,2026-10-24 19:00,,awaiting_response
+NW-0006,Silverline Cosmetics,ORD-22676,Only 8 of 12 pallets were delivered.,high,wrong_delivery,2026-09-26 15:00,41,answered
+NW-0007,Westbrook Sports,ORD-26361,Still waiting for a credit note promised last month.,low,billing,2026-10-21 16:00,,awaiting_response
+NW-0008,Thornbury Paper Co,ORD-85674,We were charged twice for the same shipment.,medium,billing,2026-09-01 17:00,107,answered
+NW-0009,Oakridge Building Supplies,ORD-20458,"Collection was booked for 9am, driver never showed up.",high,delays,2026-08-29 22:00,60,answered
+NW-0010,Thornbury Paper Co,ORD-31319,Can you transport lithium batteries?,medium,customs_hazardous,2026-10-01 15:00,85,answered
+NW-0011,Brightwell Pharmacy,ORD-89840,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-08-26 11:00,171,answered
+NW-0012,Bluewater Beverages,ORD-93886,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-10-11 10:00,86,answered
+NW-0013,Pennine Steel,ORD-51347,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-10-20 14:00,60,answered
+NW-0014,Halden Medical,ORD-37869,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-09-06 23:00,154,answered
+NW-0015,Kestrel Auto Parts,ORD-83579,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-10-13 04:00,64,answered
+NW-0016,Kestrel Auto Parts,ORD-28131,Hazardous goods label missing on our delivery note.,low,customs_hazardous,2026-09-05 13:00,79,answered
+NW-0017,Ashford Garden Supply,ORD-99192,Need this pallet before Friday or our production line stops.,medium,delays,2026-10-16 00:00,50,answered
+NW-0018,Fairmont Wine Imports,ORD-79352,Can you transport lithium batteries?,high,customs_hazardous,2026-09-22 19:00,103,answered
+NW-0019,Westbrook Sports,ORD-44973,Your estimated delivery date has changed four times.,low,delays,2026-08-28 07:00,122,answered
+NW-0020,Bluewater Beverages,ORD-75612,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-10-11 21:00,85,answered
+NW-0021,Lowland Dairy,ORD-89818,Tracking says delivered but nothing arrived.,low,tracking,2026-09-02 00:00,68,answered
+NW-0022,Lowland Dairy,ORD-10074,Forklift damage on three pallets.,medium,damage,2026-09-09 08:00,178,answered
+NW-0023,Oakridge Building Supplies,ORD-41385,Delivery arrived two days late.,low,delays,2026-10-15 19:00,169,answered
+NW-0024,Brightwell Pharmacy,ORD-79822,Tracking says delivered but nothing arrived.,low,tracking,2026-10-18 01:00,124,answered
+NW-0025,Lowland Dairy,ORD-89507,Nobody replied to my email from last week.,high,account_general,2026-09-08 11:00,51,answered
+NW-0026,Thornbury Paper Co,ORD-67422,Driver refused to unload at our site.,medium,wrong_delivery,2026-09-28 18:00,79,answered
+NW-0027,Harbour Foods Ltd,ORD-87110,Driver refused to unload at our site.,low,wrong_delivery,2026-10-06 04:00,33,answered
+NW-0028,Pennine Steel,ORD-40007,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-10-24 18:00,,awaiting_response
+NW-0029,Bluewater Beverages,ORD-97684,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-10-19 07:00,93,answered
+NW-0030,Kestrel Auto Parts,ORD-71993,Seal on the container was broken on arrival.,medium,damage,2026-09-06 15:00,101,answered
+NW-0031,Thornbury Paper Co,ORD-65519,Status has said 'in transit' for 11 days.,medium,tracking,2026-10-17 02:00,113,answered
+NW-0032,Coastline Furniture,ORD-17944,Need this pallet before Friday or our production line stops.,medium,delays,2026-08-28 21:00,112,answered
+NW-0033,Westbrook Sports,ORD-68800,Tracking says delivered but nothing arrived.,low,tracking,2026-10-04 03:00,55,answered
+NW-0034,Brightwell Pharmacy,ORD-68082,Need a copy of an invoice from last March.,medium,billing,2026-09-15 21:00,62,answered
+NW-0035,Westbrook Sports,ORD-11934,Tracking page has not updated since Monday.,high,tracking,2026-10-21 01:00,,awaiting_response
+NW-0036,Granite Office Supplies,ORD-38016,Goods went to our old address even though we updated it.,high,wrong_delivery,2026-10-11 04:00,80,answered
+NW-0037,Silverline Cosmetics,ORD-44760,Seal on the container was broken on arrival.,high,damage,2026-09-23 00:00,9,answered
+NW-0038,Westbrook Sports,ORD-96752,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-09-19 06:00,118,answered
+NW-0039,Pennine Steel,ORD-85914,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-09-30 01:00,58,answered
+NW-0040,Granite Office Supplies,ORD-75909,What is your refund policy for missed collections?,low,refunds_claims,2026-10-20 11:00,30,answered
+NW-0041,Brightwell Pharmacy,ORD-98501,Tracking says delivered but nothing arrived.,low,tracking,2026-10-09 12:00,34,answered
+NW-0042,Elmfield Books,ORD-20745,Goods went to our old address even though we updated it.,medium,wrong_delivery,2026-09-05 23:00,103,answered
+NW-0043,Halden Medical,ORD-41285,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-10-03 02:00,57,answered
+NW-0044,Brightwell Pharmacy,ORD-11220,Still waiting for a credit note promised last month.,medium,billing,2026-09-16 08:00,70,answered
+NW-0045,Lowland Dairy,ORD-44760,Tracking says delivered but nothing arrived.,high,tracking,2026-10-19 02:00,96,answered
+NW-0046,Ashford Garden Supply,ORD-67433,"Tracking shows our goods in Manchester, but they were going to Bristol.",medium,tracking,2026-10-04 12:00,75,answered
+NW-0047,Oakridge Building Supplies,ORD-96951,Our shipment was due Tuesday and still hasn't arrived.,high,delays,2026-08-29 09:00,140,answered
+NW-0048,Coastline Furniture,ORD-82512,Pallet was wrapped badly and half the cartons were crushed.,medium,damage,2026-10-02 19:00,44,answered
+NW-0049,Bluewater Beverages,ORD-76244,Goods went to our old address even though we updated it.,medium,wrong_delivery,2026-09-26 02:00,57,answered
+NW-0050,Bluewater Beverages,ORD-15778,Delivery arrived two days late.,medium,delays,2026-10-17 11:00,109,answered
+NW-0051,Ashford Garden Supply,ORD-67912,Forklift damage on three pallets.,high,damage,2026-09-01 00:00,191,answered
+NW-0052,Northgate Electronics,ORD-81511,Delivery arrived two days late.,high,delays,2026-10-15 19:00,36,answered
+NW-0053,Oakridge Building Supplies,ORD-57795,Seal on the container was broken on arrival.,high,damage,2026-09-18 16:00,46,answered
+NW-0054,Kestrel Auto Parts,ORD-97416,Our shipment was due Tuesday and still hasn't arrived.,medium,delays,2026-09-24 20:00,57,answered
+NW-0055,Kestrel Auto Parts,ORD-31299,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-02 09:00,127,answered
+NW-0056,Halden Medical,ORD-63964,"Collection was booked for 9am, driver never showed up.",low,delays,2026-10-10 01:00,125,answered
+NW-0057,Granite Office Supplies,ORD-39154,Tracking says delivered but nothing arrived.,medium,tracking,2026-09-22 17:00,153,answered
+NW-0058,Kestrel Auto Parts,ORD-39219,Need to change the delivery address on an existing order.,low,account_general,2026-09-25 12:00,68,answered
+NW-0059,Brightwell Pharmacy,ORD-46585,Can you transport lithium batteries?,high,customs_hazardous,2026-09-27 08:00,65,answered
+NW-0060,Westbrook Sports,ORD-53404,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-08-28 09:00,192,answered
+NW-0061,Bluewater Beverages,ORD-15014,Invoice amount does not match the quote.,medium,billing,2026-10-10 03:00,101,answered
+NW-0062,Lowland Dairy,ORD-25157,Your claim form keeps rejecting our upload.,high,refunds_claims,2026-09-28 14:00,83,answered
+NW-0063,Ridgeway Toys,ORD-10221,Driver refused to unload at our site.,high,wrong_delivery,2026-10-03 15:00,29,answered
+NW-0064,Halden Medical,ORD-91678,Only 8 of 12 pallets were delivered.,medium,wrong_delivery,2026-09-24 07:00,82,answered
+NW-0065,Ridgeway Toys,ORD-52753,Status has said 'in transit' for 11 days.,medium,tracking,2026-09-29 17:00,92,answered
+NW-0066,Silverline Cosmetics,ORD-98777,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-10-09 00:00,81,answered
+NW-0067,Harbour Foods Ltd,ORD-49829,Fuel surcharge on our invoice wasn't in the contract.,low,billing,2026-09-20 17:00,97,answered
+NW-0068,Meridian Textiles,ORD-77000,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-09-15 16:00,84,answered
+NW-0069,Lowland Dairy,ORD-97012,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-08-30 03:00,38,answered
+NW-0070,Kestrel Auto Parts,ORD-36100,Tracking says delivered but nothing arrived.,low,tracking,2026-10-05 07:00,115,answered
+NW-0071,Brightwell Pharmacy,ORD-69692,Goods went to our old address even though we updated it.,high,wrong_delivery,2026-09-14 19:00,106,answered
+NW-0072,Silverline Cosmetics,ORD-41979,We received someone else's order.,medium,wrong_delivery,2026-08-26 22:00,77,answered
+NW-0073,Kestrel Auto Parts,ORD-33053,"Delivery window was 8-12, driver came at 6pm.",low,delays,2026-10-16 06:00,133,answered
+NW-0074,Fairmont Wine Imports,ORD-97500,Driver refused to unload at our site.,high,wrong_delivery,2026-10-15 00:00,85,answered
+NW-0075,Lowland Dairy,ORD-65933,What is your refund policy for missed collections?,low,refunds_claims,2026-09-17 14:00,106,answered
+NW-0076,Kestrel Auto Parts,ORD-93579,Glass items arrived broken.,high,damage,2026-09-14 20:00,85,answered
+NW-0077,Fairmont Wine Imports,ORD-20155,Driver was rude to our warehouse staff.,low,account_general,2026-09-01 21:00,61,answered
+NW-0078,Westbrook Sports,ORD-20561,We were charged twice for the same shipment.,low,billing,2026-09-26 17:00,70,answered
+NW-0079,Meridian Textiles,ORD-18418,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-08-27 03:00,50,answered
+NW-0080,Ridgeway Toys,ORD-61049,Is your Leeds warehouse open on Saturdays?,medium,account_general,2026-09-19 21:00,33,answered
+NW-0081,Harbour Foods Ltd,ORD-56105,Order stuck at the Felixstowe depot for a week.,high,delays,2026-09-06 05:00,77,answered
+NW-0082,Westbrook Sports,ORD-89069,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-09-09 10:00,127,answered
+NW-0083,Silverline Cosmetics,ORD-54057,"Why was there a waiting time charge? Your driver was late, not us.",medium,billing,2026-09-18 04:00,89,answered
+NW-0084,Northgate Electronics,ORD-91560,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-10-11 06:00,145,answered
+NW-0085,Northgate Electronics,ORD-70515,Third late delivery this month. We're losing patience.,low,delays,2026-10-18 05:00,110,answered
+NW-0086,Halden Medical,ORD-54236,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-27 10:00,58,answered
+NW-0087,Granite Office Supplies,ORD-12540,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-10-03 20:00,144,answered
+NW-0088,Pennine Steel,ORD-14067,Submitted a claim 6 weeks ago and heard nothing.,low,refunds_claims,2026-10-06 05:00,111,answered
+NW-0089,Northgate Electronics,ORD-72070,Our shipment was due Tuesday and still hasn't arrived.,medium,delays,2026-09-02 08:00,49,answered
+NW-0090,Thornbury Paper Co,ORD-31992,Driver refused to unload at our site.,medium,wrong_delivery,2026-09-15 16:00,119,answered
+NW-0091,Coastline Furniture,ORD-85849,Tracking page has not updated since Monday.,high,tracking,2026-10-11 09:00,183,answered
+NW-0092,Meridian Textiles,ORD-19961,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-09-21 12:00,173,answered
+NW-0093,Coastline Furniture,ORD-84177,Need a copy of an invoice from last March.,low,billing,2026-08-27 23:00,104,answered
+NW-0094,Lowland Dairy,ORD-94874,Can you transport lithium batteries?,low,customs_hazardous,2026-08-29 22:00,75,answered
+NW-0095,Thornbury Paper Co,ORD-93307,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-09-13 13:00,42,answered
+NW-0096,Bluewater Beverages,ORD-90728,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-10-10 08:00,125,answered
+NW-0097,Brightwell Pharmacy,ORD-46559,Still waiting for a credit note promised last month.,low,billing,2026-09-27 20:00,148,answered
+NW-0098,Silverline Cosmetics,ORD-54092,Need to change the delivery address on an existing order.,low,account_general,2026-09-06 17:00,105,answered
+NW-0099,Thornbury Paper Co,ORD-43862,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-10-09 20:00,89,answered
+NW-0100,Meridian Textiles,ORD-21221,We were charged twice for the same shipment.,medium,billing,2026-09-07 22:00,16,answered
+NW-0101,Granite Office Supplies,ORD-94659,Driver was rude to our warehouse staff.,low,account_general,2026-09-07 23:00,129,answered
+NW-0102,Silverline Cosmetics,ORD-41890,Order stuck at the Felixstowe depot for a week.,medium,delays,2026-10-17 10:00,67,answered
+NW-0103,Thornbury Paper Co,ORD-65771,What is your refund policy for missed collections?,low,refunds_claims,2026-09-14 23:00,98,answered
+NW-0104,Kestrel Auto Parts,ORD-25814,Driver was rude to our warehouse staff.,low,account_general,2026-10-02 06:00,69,answered
+NW-0105,Ashford Garden Supply,ORD-35105,Tracking says delivered but nothing arrived.,medium,tracking,2026-09-09 15:00,177,answered
+NW-0106,Lowland Dairy,ORD-88222,Fuel surcharge on our invoice wasn't in the contract.,high,billing,2026-09-05 01:00,189,answered
+NW-0107,Ashford Garden Supply,ORD-49618,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-09-30 02:00,60,answered
+NW-0108,Pennine Steel,ORD-82529,Glass items arrived broken.,high,damage,2026-10-01 23:00,29,answered
+NW-0109,Granite Office Supplies,ORD-23446,Seal on the container was broken on arrival.,low,damage,2026-08-31 22:00,152,answered
+NW-0110,Halden Medical,ORD-34164,Invoice amount does not match the quote.,low,billing,2026-09-15 07:00,88,answered
+NW-0111,Silverline Cosmetics,ORD-74454,How do I add a new user to our account?,low,account_general,2026-10-15 15:00,141,answered
+NW-0112,Cobalt Machinery,ORD-49824,Our shipment was due Tuesday and still hasn't arrived.,high,delays,2026-10-12 10:00,49,answered
+NW-0113,Elmfield Books,ORD-88135,"Tracking shows our goods in Manchester, but they were going to Bristol.",low,tracking,2026-09-07 18:00,130,answered
+NW-0114,Oakridge Building Supplies,ORD-87139,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-16 22:00,162,answered
+NW-0115,Coastline Furniture,ORD-37235,"Collection was booked for 9am, driver never showed up.",low,delays,2026-09-03 08:00,181,answered
+NW-0116,Westbrook Sports,ORD-19838,Tracking says delivered but nothing arrived.,low,tracking,2026-10-11 23:00,61,answered
+NW-0117,Oakridge Building Supplies,ORD-14278,Who is our account manager now?,low,account_general,2026-08-27 13:00,103,answered
+NW-0118,Brightwell Pharmacy,ORD-40595,Fuel surcharge on our invoice wasn't in the contract.,medium,billing,2026-08-26 09:00,150,answered
+NW-0119,Kestrel Auto Parts,ORD-94886,We received someone else's order.,high,wrong_delivery,2026-09-19 02:00,43,answered
+NW-0120,Oakridge Building Supplies,ORD-87993,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-10-19 06:00,32,answered
+NW-0121,Oakridge Building Supplies,ORD-62757,Fuel surcharge on our invoice wasn't in the contract.,low,billing,2026-09-17 21:00,45,answered
+NW-0122,Pennine Steel,ORD-66626,Driver was rude to our warehouse staff.,low,account_general,2026-09-18 00:00,37,answered
+NW-0123,Cobalt Machinery,ORD-86955,Invoice amount does not match the quote.,high,billing,2026-10-23 04:00,39,answered
+NW-0124,Ashford Garden Supply,ORD-71669,Invoice has the wrong VAT number.,medium,billing,2026-09-06 04:00,27,answered
+NW-0125,Ridgeway Toys,ORD-93202,Need a copy of an invoice from last March.,low,billing,2026-10-09 21:00,206,answered
+NW-0126,Halden Medical,ORD-52081,Can't find my order on your website using the order number.,low,tracking,2026-09-15 06:00,73,answered
+NW-0127,Granite Office Supplies,ORD-47777,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-09-27 05:00,80,answered
+NW-0128,Bluewater Beverages,ORD-52372,Our shipment was due Tuesday and still hasn't arrived.,high,delays,2026-09-16 13:00,39,answered
+NW-0129,Harbour Foods Ltd,ORD-96200,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-11 11:00,142,answered
+NW-0130,Granite Office Supplies,ORD-91973,Goods went to our old address even though we updated it.,high,wrong_delivery,2026-09-11 03:00,74,answered
+NW-0131,Oakridge Building Supplies,ORD-67424,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-10-02 14:00,97,answered
+NW-0132,Kestrel Auto Parts,ORD-30758,Order stuck at the Felixstowe depot for a week.,medium,delays,2026-09-01 14:00,105,answered
+NW-0133,Coastline Furniture,ORD-70482,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-10-17 10:00,59,answered
+NW-0134,Oakridge Building Supplies,ORD-76698,"Packaging was wet when it arrived, stock is ruined.",medium,damage,2026-09-12 20:00,170,answered
+NW-0135,Westbrook Sports,ORD-28958,Nobody replied to my email from last week.,low,account_general,2026-09-15 01:00,62,answered
+NW-0136,Ridgeway Toys,ORD-54548,Seal on the container was broken on arrival.,medium,damage,2026-10-19 10:00,65,answered
+NW-0137,Cobalt Machinery,ORD-86011,"Delivery window was 8-12, driver came at 6pm.",high,delays,2026-10-01 05:00,123,answered
+NW-0138,Halden Medical,ORD-82340,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-09-09 09:00,89,answered
+NW-0139,Kestrel Auto Parts,ORD-84946,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-10-09 06:00,191,answered
+NW-0140,Granite Office Supplies,ORD-59968,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-10-21 15:00,70,answered
+NW-0141,Northgate Electronics,ORD-75836,Forklift damage on three pallets.,medium,damage,2026-09-13 02:00,183,answered
+NW-0142,Fairmont Wine Imports,ORD-12011,Can't find my order on your website using the order number.,low,tracking,2026-09-17 19:00,41,answered
+NW-0143,Bluewater Beverages,ORD-54375,Forklift damage on three pallets.,high,damage,2026-10-18 23:00,87,answered
+NW-0144,Westbrook Sports,ORD-59808,The tracking link in your email doesn't work.,medium,tracking,2026-09-27 08:00,148,answered
+NW-0145,Brightwell Pharmacy,ORD-40771,Can you deliver to a site with no loading bay?,low,account_general,2026-09-09 04:00,26,answered
+NW-0146,Ridgeway Toys,ORD-22903,Need a copy of an invoice from last March.,medium,billing,2026-10-05 23:00,127,answered
+NW-0147,Oakridge Building Supplies,ORD-13794,Tracking page has not updated since Monday.,low,tracking,2026-09-17 12:00,52,answered
+NW-0148,Ridgeway Toys,ORD-29080,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-09-30 08:00,74,answered
+NW-0149,Elmfield Books,ORD-60140,Forklift damage on three pallets.,high,damage,2026-10-10 20:00,53,answered
+NW-0150,Fairmont Wine Imports,ORD-93611,Can you send proof of delivery for last week's order?,low,account_general,2026-09-05 14:00,48,answered
+NW-0151,Westbrook Sports,ORD-30706,Our shipment was due Tuesday and still hasn't arrived.,medium,delays,2026-09-15 16:00,160,answered
+NW-0152,Ridgeway Toys,ORD-42780,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-09-05 05:00,68,answered
+NW-0153,Coastline Furniture,ORD-41091,Goods went to our old address even though we updated it.,medium,wrong_delivery,2026-09-22 13:00,148,answered
+NW-0154,Silverline Cosmetics,ORD-45976,Invoice amount does not match the quote.,medium,billing,2026-08-26 16:00,67,answered
+NW-0155,Oakridge Building Supplies,ORD-40162,Your estimated delivery date has changed four times.,low,delays,2026-09-03 15:00,127,answered
+NW-0156,Northgate Electronics,ORD-92345,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-09-02 09:00,62,answered
+NW-0157,Pennine Steel,ORD-85965,Your estimated delivery date has changed four times.,medium,delays,2026-09-29 00:00,135,answered
+NW-0158,Ridgeway Toys,ORD-33021,Tracking says delivered but nothing arrived.,low,tracking,2026-09-30 04:00,71,answered
+NW-0159,Bluewater Beverages,ORD-31567,Want a refund for the late delivery as per our agreement.,high,refunds_claims,2026-09-10 01:00,91,answered
+NW-0160,Halden Medical,ORD-25095,Want to cancel the order booked for tomorrow.,high,account_general,2026-09-30 04:00,127,answered
+NW-0161,Silverline Cosmetics,ORD-83048,Glass items arrived broken.,low,damage,2026-10-06 02:00,150,answered
+NW-0162,Coastline Furniture,ORD-69609,Can you transport lithium batteries?,high,customs_hazardous,2026-10-24 04:00,,awaiting_response
+NW-0163,Thornbury Paper Co,ORD-24201,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-09-05 11:00,77,answered
+NW-0164,Westbrook Sports,ORD-52992,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-09-02 12:00,156,answered
+NW-0165,Ridgeway Toys,ORD-25292,Can we book a regular weekly collection?,low,account_general,2026-08-26 13:00,68,answered
+NW-0166,Coastline Furniture,ORD-22739,"Collection was booked for 9am, driver never showed up.",high,delays,2026-09-29 09:00,205,answered
+NW-0167,Westbrook Sports,ORD-64935,Forklift damage on three pallets.,high,damage,2026-09-22 05:00,85,answered
+NW-0168,Granite Office Supplies,ORD-90694,Refrigerated goods arrived warm. The whole load is spoiled.,high,damage,2026-09-19 23:00,112,answered
+NW-0169,Meridian Textiles,ORD-68115,Still waiting for a credit note promised last month.,high,billing,2026-10-22 13:00,,awaiting_response
+NW-0170,Thornbury Paper Co,ORD-81364,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-10-16 21:00,192,answered
+NW-0171,Fairmont Wine Imports,ORD-22015,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-10-09 04:00,184,answered
+NW-0172,Kestrel Auto Parts,ORD-26505,"Collection was booked for 9am, driver never showed up.",low,delays,2026-10-21 01:00,,awaiting_response
+NW-0173,Kestrel Auto Parts,ORD-53064,We received someone else's order.,high,wrong_delivery,2026-09-05 08:00,58,answered
+NW-0174,Northgate Electronics,ORD-27038,Order stuck at the Felixstowe depot for a week.,high,delays,2026-10-01 17:00,149,answered
+NW-0175,Northgate Electronics,ORD-11947,The tracking link in your email doesn't work.,medium,tracking,2026-08-29 23:00,151,answered
+NW-0176,Ashford Garden Supply,ORD-44782,Driver left the goods at the wrong dock.,low,wrong_delivery,2026-09-05 03:00,70,answered
+NW-0177,Brightwell Pharmacy,ORD-72422,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-09-10 11:00,43,answered
+NW-0178,Elmfield Books,ORD-15683,Can't find my order on your website using the order number.,medium,tracking,2026-09-16 19:00,91,answered
+NW-0179,Harbour Foods Ltd,ORD-17972,Still waiting for a credit note promised last month.,medium,billing,2026-09-16 06:00,110,answered
+NW-0180,Fairmont Wine Imports,ORD-19632,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-08-27 19:00,42,answered
+NW-0181,Elmfield Books,ORD-92978,Forklift damage on three pallets.,medium,damage,2026-10-19 18:00,45,answered
+NW-0182,Lowland Dairy,ORD-48652,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-09-22 20:00,203,answered
+NW-0183,Coastline Furniture,ORD-95814,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-10-16 21:00,135,answered
+NW-0184,Fairmont Wine Imports,ORD-62262,Goods went to our old address even though we updated it.,high,wrong_delivery,2026-09-20 01:00,72,answered
+NW-0185,Bluewater Beverages,ORD-59060,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-09-18 22:00,69,answered
+NW-0186,Brightwell Pharmacy,ORD-22219,Nobody replied to my email from last week.,low,account_general,2026-10-19 15:00,39,answered
+NW-0187,Cobalt Machinery,ORD-83608,What is your refund policy for missed collections?,low,refunds_claims,2026-10-14 06:00,98,answered
+NW-0188,Ridgeway Toys,ORD-16743,The tracking link in your email doesn't work.,medium,tracking,2026-09-20 07:00,74,answered
+NW-0189,Meridian Textiles,ORD-30280,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-10-16 12:00,101,answered
+NW-0190,Thornbury Paper Co,ORD-25058,The tracking link in your email doesn't work.,medium,tracking,2026-09-25 11:00,146,answered
+NW-0191,Elmfield Books,ORD-90422,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-09-07 12:00,188,answered
+NW-0192,Oakridge Building Supplies,ORD-54541,Fuel surcharge on our invoice wasn't in the contract.,low,billing,2026-10-22 21:00,53,answered
+NW-0193,Brightwell Pharmacy,ORD-28595,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-09-07 01:00,112,answered
+NW-0194,Meridian Textiles,ORD-59308,Need this pallet before Friday or our production line stops.,medium,delays,2026-10-17 13:00,127,answered
+NW-0195,Halden Medical,ORD-84395,Forklift damage on three pallets.,low,damage,2026-09-23 19:00,69,answered
+NW-0196,Elmfield Books,ORD-16522,Our shipment was due Tuesday and still hasn't arrived.,low,delays,2026-10-12 02:00,50,answered
+NW-0197,Ridgeway Toys,ORD-45804,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-13 22:00,105,answered
+NW-0198,Oakridge Building Supplies,ORD-98895,Can't find my order on your website using the order number.,medium,tracking,2026-09-25 22:00,82,answered
+NW-0199,Elmfield Books,ORD-17180,Invoice amount does not match the quote.,low,billing,2026-10-21 11:00,59,answered
+NW-0200,Oakridge Building Supplies,ORD-53007,Driver left the goods at the wrong dock.,low,wrong_delivery,2026-10-13 15:00,130,answered
+NW-0201,Westbrook Sports,ORD-40161,Can you transport lithium batteries?,low,customs_hazardous,2026-10-10 09:00,46,answered
+NW-0202,Brightwell Pharmacy,ORD-51033,Need this pallet before Friday or our production line stops.,medium,delays,2026-09-18 03:00,20,answered
+NW-0203,Harbour Foods Ltd,ORD-52568,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-30 16:00,44,answered
+NW-0204,Brightwell Pharmacy,ORD-67240,How do I add a new user to our account?,low,account_general,2026-08-27 12:00,166,answered
+NW-0205,Oakridge Building Supplies,ORD-54500,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-09-10 15:00,37,answered
+NW-0206,Coastline Furniture,ORD-79547,Forklift damage on three pallets.,medium,damage,2026-10-18 20:00,92,answered
+NW-0207,Northgate Electronics,ORD-40968,How do I claim for damaged goods?,low,refunds_claims,2026-09-25 09:00,124,answered
+NW-0208,Brightwell Pharmacy,ORD-33218,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-10-10 13:00,104,answered
+NW-0209,Cobalt Machinery,ORD-94278,Can you deliver to a site with no loading bay?,high,account_general,2026-08-28 06:00,167,answered
+NW-0210,Fairmont Wine Imports,ORD-18950,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-09-01 20:00,70,answered
+NW-0211,Thornbury Paper Co,ORD-76497,Invoice amount does not match the quote.,low,billing,2026-10-01 22:00,103,answered
+NW-0212,Oakridge Building Supplies,ORD-20057,Can you deliver to a site with no loading bay?,medium,account_general,2026-10-22 03:00,32,answered
+NW-0213,Silverline Cosmetics,ORD-70648,"Tracking shows our goods in Manchester, but they were going to Bristol.",medium,tracking,2026-09-02 21:00,103,answered
+NW-0214,Cobalt Machinery,ORD-95437,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-09-16 23:00,163,answered
+NW-0215,Pennine Steel,ORD-69050,How do I add a new user to our account?,medium,account_general,2026-09-12 14:00,49,answered
+NW-0216,Ashford Garden Supply,ORD-15130,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-10-18 04:00,91,answered
+NW-0217,Ashford Garden Supply,ORD-57696,Your phone line kept me on hold for 40 minutes.,medium,account_general,2026-09-10 15:00,94,answered
+NW-0218,Elmfield Books,ORD-16863,Can you transport lithium batteries?,low,customs_hazardous,2026-09-20 11:00,132,answered
+NW-0219,Oakridge Building Supplies,ORD-43029,Can't find my order on your website using the order number.,high,tracking,2026-09-07 18:00,116,answered
+NW-0220,Northgate Electronics,ORD-55851,Glass items arrived broken.,high,damage,2026-09-26 22:00,37,answered
+NW-0221,Brightwell Pharmacy,ORD-50577,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-10-14 08:00,103,answered
+NW-0222,Lowland Dairy,ORD-22249,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-10-14 11:00,114,answered
+NW-0223,Meridian Textiles,ORD-54791,"Delivery window was 8-12, driver came at 6pm.",low,delays,2026-09-24 10:00,69,answered
+NW-0224,Coastline Furniture,ORD-76543,Seal on the container was broken on arrival.,medium,damage,2026-10-12 03:00,36,answered
+NW-0225,Elmfield Books,ORD-27176,Need this pallet before Friday or our production line stops.,low,delays,2026-08-29 21:00,72,answered
+NW-0226,Ashford Garden Supply,ORD-67366,Two boxes in the shipment were damaged.,medium,damage,2026-08-27 06:00,131,answered
+NW-0227,Fairmont Wine Imports,ORD-40671,Driver refused to unload at our site.,low,wrong_delivery,2026-09-17 11:00,105,answered
+NW-0228,Cobalt Machinery,ORD-67749,Want to cancel the order booked for tomorrow.,medium,account_general,2026-10-08 19:00,75,answered
+NW-0229,Ashford Garden Supply,ORD-36174,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-12 11:00,94,answered
+NW-0230,Thornbury Paper Co,ORD-82684,Our shipment was due Tuesday and still hasn't arrived.,medium,delays,2026-08-31 15:00,88,answered
+NW-0231,Ashford Garden Supply,ORD-45755,Status has said 'in transit' for 11 days.,high,tracking,2026-10-01 01:00,38,answered
+NW-0232,Kestrel Auto Parts,ORD-69130,Glass items arrived broken.,high,damage,2026-09-18 01:00,39,answered
+NW-0233,Thornbury Paper Co,ORD-40903,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-10-20 19:00,78,answered
+NW-0234,Coastline Furniture,ORD-95191,Want a refund for the late delivery as per our agreement.,medium,refunds_claims,2026-10-06 05:00,24,answered
+NW-0235,Granite Office Supplies,ORD-28191,Seal on the container was broken on arrival.,high,damage,2026-10-22 02:00,66,answered
+NW-0236,Brightwell Pharmacy,ORD-12490,Can you send proof of delivery for last week's order?,low,account_general,2026-09-02 20:00,12,answered
+NW-0237,Elmfield Books,ORD-79176,Refrigerated goods arrived warm. The whole load is spoiled.,low,damage,2026-09-08 13:00,173,answered
+NW-0238,Pennine Steel,ORD-41252,Still waiting for a credit note promised last month.,medium,billing,2026-10-05 02:00,68,answered
+NW-0239,Granite Office Supplies,ORD-88215,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-10-20 00:00,43,answered
+NW-0240,Harbour Foods Ltd,ORD-90584,Only 8 of 12 pallets were delivered.,low,wrong_delivery,2026-10-13 02:00,67,answered
+NW-0241,Brightwell Pharmacy,ORD-78614,Can you transport lithium batteries?,low,customs_hazardous,2026-10-09 09:00,113,answered
+NW-0242,Pennine Steel,ORD-93318,Need this pallet before Friday or our production line stops.,high,delays,2026-09-22 01:00,153,answered
+NW-0243,Brightwell Pharmacy,ORD-55193,We were charged twice for the same shipment.,medium,billing,2026-10-23 23:00,,awaiting_response
+NW-0244,Halden Medical,ORD-27486,Tracking page has not updated since Monday.,low,tracking,2026-09-05 17:00,125,answered
+NW-0245,Fairmont Wine Imports,ORD-72722,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-08-31 12:00,53,answered
+NW-0246,Meridian Textiles,ORD-15741,Tracking says delivered but nothing arrived.,high,tracking,2026-09-16 07:00,26,answered
+NW-0247,Westbrook Sports,ORD-72049,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-09-28 21:00,93,answered
+NW-0248,Pennine Steel,ORD-95948,Only 8 of 12 pallets were delivered.,medium,wrong_delivery,2026-09-30 23:00,74,answered
+NW-0249,Fairmont Wine Imports,ORD-60678,Want a refund for the late delivery as per our agreement.,high,refunds_claims,2026-09-18 02:00,157,answered
+NW-0250,Lowland Dairy,ORD-44959,How do I add a new user to our account?,low,account_general,2026-08-27 07:00,90,answered
+NW-0251,Ashford Garden Supply,ORD-81496,The tracking link in your email doesn't work.,low,tracking,2026-09-18 15:00,104,answered
+NW-0252,Oakridge Building Supplies,ORD-68447,"Tracking shows our goods in Manchester, but they were going to Bristol.",medium,tracking,2026-09-27 09:00,113,answered
+NW-0253,Fairmont Wine Imports,ORD-15551,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-08-27 12:00,84,answered
+NW-0254,Bluewater Beverages,ORD-93816,How do I claim for damaged goods?,low,refunds_claims,2026-09-02 21:00,208,answered
+NW-0255,Ashford Garden Supply,ORD-14081,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-24 08:00,92,answered
+NW-0256,Kestrel Auto Parts,ORD-94562,Your phone line kept me on hold for 40 minutes.,low,account_general,2026-10-22 09:00,45,answered
+NW-0257,Fairmont Wine Imports,ORD-58623,Your estimated delivery date has changed four times.,medium,delays,2026-09-03 17:00,50,answered
+NW-0258,Thornbury Paper Co,ORD-62171,The tracking link in your email doesn't work.,medium,tracking,2026-09-06 09:00,47,answered
+NW-0259,Ashford Garden Supply,ORD-75410,Driver refused to unload at our site.,medium,wrong_delivery,2026-10-15 16:00,23,answered
+NW-0260,Fairmont Wine Imports,ORD-38124,"Tracking shows our goods in Manchester, but they were going to Bristol.",low,tracking,2026-10-03 00:00,132,answered
+NW-0261,Brightwell Pharmacy,ORD-69250,Can we book a regular weekly collection?,medium,account_general,2026-10-08 07:00,45,answered
+NW-0262,Halden Medical,ORD-97535,Your phone line kept me on hold for 40 minutes.,low,account_general,2026-10-17 21:00,139,answered
+NW-0263,Ashford Garden Supply,ORD-57381,Invoice has the wrong VAT number.,low,billing,2026-09-29 18:00,148,answered
+NW-0264,Granite Office Supplies,ORD-13445,Only 8 of 12 pallets were delivered.,medium,wrong_delivery,2026-10-13 12:00,61,answered
+NW-0265,Westbrook Sports,ORD-27009,What is your refund policy for missed collections?,high,refunds_claims,2026-09-15 11:00,138,answered
+NW-0266,Granite Office Supplies,ORD-78903,Status has said 'in transit' for 11 days.,medium,tracking,2026-09-28 23:00,79,answered
+NW-0267,Brightwell Pharmacy,ORD-68979,Status has said 'in transit' for 11 days.,medium,tracking,2026-10-14 16:00,187,answered
+NW-0268,Westbrook Sports,ORD-93859,What is your refund policy for missed collections?,low,refunds_claims,2026-10-14 10:00,154,answered
+NW-0269,Pennine Steel,ORD-26274,Forklift damage on three pallets.,medium,damage,2026-09-18 10:00,91,answered
+NW-0270,Kestrel Auto Parts,ORD-55353,Forklift damage on three pallets.,high,damage,2026-10-11 13:00,70,answered
+NW-0271,Westbrook Sports,ORD-45972,Tracking says delivered but nothing arrived.,medium,tracking,2026-10-03 23:00,56,answered
+NW-0272,Cobalt Machinery,ORD-86106,Tracking says delivered but nothing arrived.,low,tracking,2026-09-12 11:00,110,answered
+NW-0273,Harbour Foods Ltd,ORD-20646,How do I claim for damaged goods?,high,refunds_claims,2026-09-07 06:00,28,answered
+NW-0274,Cobalt Machinery,ORD-64602,Invoice has the wrong VAT number.,medium,billing,2026-08-30 19:00,57,answered
+NW-0275,Oakridge Building Supplies,ORD-73300,Who is our account manager now?,medium,account_general,2026-09-01 20:00,97,answered
+NW-0276,Pennine Steel,ORD-30719,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-29 23:00,85,answered
+NW-0277,Northgate Electronics,ORD-50970,Driver was rude to our warehouse staff.,low,account_general,2026-10-07 23:00,72,answered
+NW-0278,Thornbury Paper Co,ORD-77499,What is your refund policy for missed collections?,low,refunds_claims,2026-09-21 08:00,46,answered
+NW-0279,Fairmont Wine Imports,ORD-42495,We received someone else's order.,low,wrong_delivery,2026-09-15 13:00,45,answered
+NW-0280,Ridgeway Toys,ORD-42541,Need a copy of an invoice from last March.,high,billing,2026-09-22 14:00,151,answered
+NW-0281,Meridian Textiles,ORD-30885,Your claim form keeps rejecting our upload.,high,refunds_claims,2026-09-06 01:00,122,answered
+NW-0282,Granite Office Supplies,ORD-13037,How do I add a new user to our account?,medium,account_general,2026-09-12 19:00,154,answered
+NW-0283,Thornbury Paper Co,ORD-16377,Need to change the delivery address on an existing order.,low,account_general,2026-10-04 19:00,58,answered
+NW-0284,Coastline Furniture,ORD-66482,Can we book a regular weekly collection?,medium,account_general,2026-09-30 23:00,95,answered
+NW-0285,Silverline Cosmetics,ORD-16705,What is your refund policy for missed collections?,medium,refunds_claims,2026-09-20 23:00,75,answered
+NW-0286,Silverline Cosmetics,ORD-76093,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-09-08 03:00,67,answered
+NW-0287,Coastline Furniture,ORD-26864,Invoice amount does not match the quote.,low,billing,2026-09-02 04:00,116,answered
+NW-0288,Northgate Electronics,ORD-36090,What is your refund policy for missed collections?,medium,refunds_claims,2026-09-07 18:00,172,answered
+NW-0289,Halden Medical,ORD-72094,"Delivery window was 8-12, driver came at 6pm.",low,delays,2026-10-21 12:00,27,answered
+NW-0290,Halden Medical,ORD-31299,Refrigerated goods arrived warm. The whole load is spoiled.,high,damage,2026-09-27 09:00,170,answered
+NW-0291,Lowland Dairy,ORD-79774,Still waiting for a credit note promised last month.,medium,billing,2026-09-04 17:00,72,answered
+NW-0292,Thornbury Paper Co,ORD-53416,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-09-14 20:00,140,answered
+NW-0293,Harbour Foods Ltd,ORD-88238,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-05 13:00,69,answered
+NW-0294,Ashford Garden Supply,ORD-78712,Delivery was left outside in the rain with no signature.,high,wrong_delivery,2026-10-20 23:00,102,answered
+NW-0295,Kestrel Auto Parts,ORD-14138,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-10-12 18:00,141,answered
+NW-0296,Ridgeway Toys,ORD-36724,Nobody replied to my email from last week.,low,account_general,2026-09-28 14:00,81,answered
+NW-0297,Lowland Dairy,ORD-37176,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-10-20 01:00,120,answered
+NW-0298,Ashford Garden Supply,ORD-70249,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-09-10 12:00,76,answered
+NW-0299,Bluewater Beverages,ORD-89963,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-08-28 16:00,131,answered
+NW-0300,Kestrel Auto Parts,ORD-49008,Only 8 of 12 pallets were delivered.,high,wrong_delivery,2026-10-01 13:00,98,answered
+NW-0301,Westbrook Sports,ORD-45842,Can you send proof of delivery for last week's order?,low,account_general,2026-09-28 07:00,88,answered
+NW-0302,Northgate Electronics,ORD-48070,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-09-21 16:00,141,answered
+NW-0303,Bluewater Beverages,ORD-72793,Tracking says delivered but nothing arrived.,low,tracking,2026-09-25 19:00,167,answered
+NW-0304,Northgate Electronics,ORD-24316,Invoice has the wrong VAT number.,medium,billing,2026-09-07 09:00,118,answered
+NW-0305,Lowland Dairy,ORD-39579,Delivery was left outside in the rain with no signature.,low,wrong_delivery,2026-10-04 16:00,30,answered
+NW-0306,Granite Office Supplies,ORD-23178,Can't find my order on your website using the order number.,medium,tracking,2026-09-20 02:00,71,answered
+NW-0307,Ashford Garden Supply,ORD-63334,"Delivery window was 8-12, driver came at 6pm.",medium,delays,2026-09-08 09:00,190,answered
+NW-0308,Pennine Steel,ORD-21725,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-09-30 20:00,70,answered
+NW-0309,Ashford Garden Supply,ORD-14763,Need this pallet before Friday or our production line stops.,high,delays,2026-10-10 10:00,81,answered
+NW-0310,Harbour Foods Ltd,ORD-49110,Forklift damage on three pallets.,high,damage,2026-09-30 16:00,154,answered
+NW-0311,Westbrook Sports,ORD-78723,Your claim form keeps rejecting our upload.,high,refunds_claims,2026-10-01 02:00,85,answered
+NW-0312,Meridian Textiles,ORD-24764,Glass items arrived broken.,medium,damage,2026-09-12 08:00,87,answered
+NW-0313,Ashford Garden Supply,ORD-11846,Driver was rude to our warehouse staff.,low,account_general,2026-08-31 01:00,63,answered
+NW-0314,Meridian Textiles,ORD-33002,Invoice has the wrong VAT number.,medium,billing,2026-09-06 22:00,115,answered
+NW-0315,Brightwell Pharmacy,ORD-62538,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-09-18 21:00,93,answered
+NW-0316,Kestrel Auto Parts,ORD-10895,Glass items arrived broken.,medium,damage,2026-09-14 15:00,70,answered
+NW-0317,Oakridge Building Supplies,ORD-86344,Driver was rude to our warehouse staff.,low,account_general,2026-10-02 14:00,178,answered
+NW-0318,Kestrel Auto Parts,ORD-18142,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-08-30 14:00,74,answered
+NW-0319,Lowland Dairy,ORD-50760,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-10-11 17:00,79,answered
+NW-0320,Kestrel Auto Parts,ORD-27507,Still waiting for a credit note promised last month.,low,billing,2026-09-24 00:00,106,answered
+NW-0321,Granite Office Supplies,ORD-80453,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-09-19 21:00,119,answered
+NW-0322,Thornbury Paper Co,ORD-20237,"Tracking shows our goods in Manchester, but they were going to Bristol.",low,tracking,2026-09-10 12:00,84,answered
+NW-0323,Ashford Garden Supply,ORD-53007,Driver refused to unload at our site.,medium,wrong_delivery,2026-09-06 12:00,95,answered
+NW-0324,Lowland Dairy,ORD-68390,Driver left the goods at the wrong dock.,medium,wrong_delivery,2026-09-05 14:00,89,answered
+NW-0325,Westbrook Sports,ORD-70604,Can you transport lithium batteries?,high,customs_hazardous,2026-09-16 09:00,99,answered
+NW-0326,Meridian Textiles,ORD-85800,Shipment held at customs. What paperwork is missing?,low,customs_hazardous,2026-10-03 15:00,140,answered
+NW-0327,Pennine Steel,ORD-19046,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-08-26 14:00,33,answered
+NW-0328,Ridgeway Toys,ORD-59081,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-10-10 00:00,131,answered
+NW-0329,Westbrook Sports,ORD-27431,Can you transport lithium batteries?,medium,customs_hazardous,2026-09-23 07:00,37,answered
+NW-0330,Kestrel Auto Parts,ORD-10455,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-09-10 05:00,46,answered
+NW-0331,Ridgeway Toys,ORD-79721,Nobody replied to my email from last week.,medium,account_general,2026-08-28 21:00,122,answered
+NW-0332,Bluewater Beverages,ORD-34704,Delivery was left outside in the rain with no signature.,high,wrong_delivery,2026-09-16 01:00,73,answered
+NW-0333,Harbour Foods Ltd,ORD-41544,"Collection was booked for 9am, driver never showed up.",low,delays,2026-08-30 00:00,81,answered
+NW-0334,Pennine Steel,ORD-42077,Delivery arrived two days late.,medium,delays,2026-09-17 06:00,104,answered
+NW-0335,Pennine Steel,ORD-28367,Driver refused to unload at our site.,high,wrong_delivery,2026-09-09 07:00,58,answered
+NW-0336,Elmfield Books,ORD-98150,Only 8 of 12 pallets were delivered.,low,wrong_delivery,2026-09-06 05:00,70,answered
+NW-0337,Ridgeway Toys,ORD-49387,Glass items arrived broken.,low,damage,2026-08-30 00:00,93,answered
+NW-0338,Westbrook Sports,ORD-74962,Two boxes in the shipment were damaged.,high,damage,2026-09-01 22:00,116,answered
+NW-0339,Ridgeway Toys,ORD-63511,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-09-10 14:00,70,answered
+NW-0340,Kestrel Auto Parts,ORD-49418,Seal on the container was broken on arrival.,high,damage,2026-09-09 11:00,87,answered
+NW-0341,Ridgeway Toys,ORD-83044,Can you quote for 20 pallets to Glasgow?,low,account_general,2026-10-20 10:00,99,answered
+NW-0342,Brightwell Pharmacy,ORD-68954,Only 8 of 12 pallets were delivered.,low,wrong_delivery,2026-10-03 14:00,57,answered
+NW-0343,Elmfield Books,ORD-89026,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-10-20 23:00,64,answered
+NW-0344,Westbrook Sports,ORD-38444,Goods went to our old address even though we updated it.,low,wrong_delivery,2026-09-05 05:00,123,answered
+NW-0345,Harbour Foods Ltd,ORD-37762,Submitted a claim 6 weeks ago and heard nothing.,high,refunds_claims,2026-09-29 12:00,179,answered
+NW-0346,Elmfield Books,ORD-36805,Status has said 'in transit' for 11 days.,high,tracking,2026-09-14 12:00,164,answered
+NW-0347,Westbrook Sports,ORD-95029,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-10-01 05:00,77,answered
+NW-0348,Fairmont Wine Imports,ORD-22924,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-09-11 14:00,155,answered
+NW-0349,Ridgeway Toys,ORD-15992,What is your refund policy for missed collections?,high,refunds_claims,2026-10-08 00:00,75,answered
+NW-0350,Cobalt Machinery,ORD-85909,"Packaging was wet when it arrived, stock is ruined.",medium,damage,2026-10-23 23:00,,awaiting_response
+NW-0351,Silverline Cosmetics,ORD-84683,Seal on the container was broken on arrival.,medium,damage,2026-10-08 15:00,71,answered
+NW-0352,Granite Office Supplies,ORD-94108,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-10-03 09:00,130,answered
+NW-0353,Westbrook Sports,ORD-74004,Submitted a claim 6 weeks ago and heard nothing.,high,refunds_claims,2026-10-10 22:00,48,answered
+NW-0354,Brightwell Pharmacy,ORD-97584,Delivery arrived two days late.,high,delays,2026-09-10 15:00,25,answered
+NW-0355,Kestrel Auto Parts,ORD-18908,Do you need an export declaration for goods to Norway?,low,customs_hazardous,2026-10-13 15:00,146,answered
+NW-0356,Elmfield Books,ORD-73334,Can you deliver to a site with no loading bay?,low,account_general,2026-09-23 12:00,33,answered
+NW-0357,Harbour Foods Ltd,ORD-12192,Order stuck at the Felixstowe depot for a week.,medium,delays,2026-09-09 23:00,97,answered
+NW-0358,Ridgeway Toys,ORD-33496,Invoice amount does not match the quote.,high,billing,2026-10-23 21:00,,awaiting_response
+NW-0359,Lowland Dairy,ORD-43084,Seal on the container was broken on arrival.,medium,damage,2026-10-04 19:00,55,answered
+NW-0360,Silverline Cosmetics,ORD-70161,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-10-18 15:00,76,answered
+NW-0361,Brightwell Pharmacy,ORD-95686,Delivery was left outside in the rain with no signature.,high,wrong_delivery,2026-09-29 18:00,116,answered
+NW-0362,Westbrook Sports,ORD-72390,Tracking page has not updated since Monday.,medium,tracking,2026-09-20 18:00,76,answered
+NW-0363,Ridgeway Toys,ORD-94529,Seal on the container was broken on arrival.,medium,damage,2026-10-18 07:00,91,answered
+NW-0364,Kestrel Auto Parts,ORD-37710,Can't find my order on your website using the order number.,high,tracking,2026-09-10 07:00,166,answered
+NW-0365,Brightwell Pharmacy,ORD-99709,Can you send proof of delivery for last week's order?,medium,account_general,2026-10-02 05:00,29,answered
+NW-0366,Halden Medical,ORD-12052,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-10-10 01:00,169,answered
+NW-0367,Cobalt Machinery,ORD-41519,Hazardous goods label missing on our delivery note.,high,customs_hazardous,2026-10-18 19:00,68,answered
+NW-0368,Northgate Electronics,ORD-20279,What is your refund policy for missed collections?,medium,refunds_claims,2026-09-22 14:00,128,answered
+NW-0369,Kestrel Auto Parts,ORD-19963,Want a refund for the late delivery as per our agreement.,medium,refunds_claims,2026-10-20 19:00,40,answered
+NW-0370,Bluewater Beverages,ORD-69054,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-27 12:00,24,answered
+NW-0371,Cobalt Machinery,ORD-96595,Hazardous goods label missing on our delivery note.,low,customs_hazardous,2026-09-18 12:00,54,answered
+NW-0372,Brightwell Pharmacy,ORD-45123,We were charged twice for the same shipment.,low,billing,2026-10-04 08:00,121,answered
+NW-0373,Coastline Furniture,ORD-21995,Two boxes in the shipment were damaged.,high,damage,2026-09-22 03:00,70,answered
+NW-0374,Coastline Furniture,ORD-27367,How do I add a new user to our account?,low,account_general,2026-09-24 15:00,129,answered
+NW-0375,Ridgeway Toys,ORD-23538,Need to change the delivery address on an existing order.,low,account_general,2026-09-07 20:00,98,answered
+NW-0376,Halden Medical,ORD-60493,Tracking page has not updated since Monday.,low,tracking,2026-09-04 10:00,104,answered
+NW-0377,Westbrook Sports,ORD-41816,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-10-18 03:00,123,answered
+NW-0378,Bluewater Beverages,ORD-74634,Pallet was wrapped badly and half the cartons were crushed.,low,damage,2026-10-13 12:00,64,answered
+NW-0379,Granite Office Supplies,ORD-20082,Can you transport lithium batteries?,medium,customs_hazardous,2026-10-01 19:00,81,answered
+NW-0380,Elmfield Books,ORD-35630,Goods went to our old address even though we updated it.,low,wrong_delivery,2026-09-02 00:00,90,answered
+NW-0381,Halden Medical,ORD-91289,Still waiting for a credit note promised last month.,medium,billing,2026-10-24 19:00,,awaiting_response
+NW-0382,Elmfield Books,ORD-27842,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-09-17 19:00,72,answered
+NW-0383,Silverline Cosmetics,ORD-51830,Only 8 of 12 pallets were delivered.,high,wrong_delivery,2026-09-14 11:00,69,answered
+NW-0384,Halden Medical,ORD-59290,Can you send proof of delivery for last week's order?,medium,account_general,2026-09-06 05:00,133,answered
+NW-0385,Cobalt Machinery,ORD-36188,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-24 05:00,43,answered
+NW-0386,Meridian Textiles,ORD-67469,Order stuck at the Felixstowe depot for a week.,high,delays,2026-09-15 23:00,174,answered
+NW-0387,Northgate Electronics,ORD-93012,The tracking link in your email doesn't work.,low,tracking,2026-09-20 11:00,115,answered
+NW-0388,Brightwell Pharmacy,ORD-68860,Forklift damage on three pallets.,medium,damage,2026-09-19 06:00,135,answered
+NW-0389,Ridgeway Toys,ORD-81256,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-09-09 18:00,92,answered
+NW-0390,Westbrook Sports,ORD-87833,How do I claim for damaged goods?,low,refunds_claims,2026-08-26 12:00,159,answered
+NW-0391,Ashford Garden Supply,ORD-94803,Driver refused to unload at our site.,low,wrong_delivery,2026-08-30 06:00,113,answered
+NW-0392,Ridgeway Toys,ORD-23886,Shipment held at customs. What paperwork is missing?,low,customs_hazardous,2026-09-27 01:00,183,answered
+NW-0393,Westbrook Sports,ORD-86089,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-09-11 19:00,127,answered
+NW-0394,Cobalt Machinery,ORD-75597,Can we book a regular weekly collection?,low,account_general,2026-09-23 10:00,78,answered
+NW-0395,Ridgeway Toys,ORD-21253,Our shipment was due Tuesday and still hasn't arrived.,high,delays,2026-09-14 04:00,42,answered
+NW-0396,Fairmont Wine Imports,ORD-37114,Forklift damage on three pallets.,medium,damage,2026-09-25 15:00,69,answered
+NW-0397,Fairmont Wine Imports,ORD-51800,How do I add a new user to our account?,low,account_general,2026-10-17 01:00,83,answered
+NW-0398,Coastline Furniture,ORD-98754,Tracking says delivered but nothing arrived.,high,tracking,2026-10-23 10:00,,awaiting_response
+NW-0399,Ashford Garden Supply,ORD-53383,Driver refused to unload at our site.,medium,wrong_delivery,2026-09-11 08:00,53,answered
+NW-0400,Ashford Garden Supply,ORD-34430,Can you deliver to a site with no loading bay?,low,account_general,2026-10-05 14:00,136,answered
+NW-0401,Meridian Textiles,ORD-68926,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-10-22 21:00,,awaiting_response
+NW-0402,Brightwell Pharmacy,ORD-85674,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-10-07 19:00,65,answered
+NW-0403,Fairmont Wine Imports,ORD-24936,Glass items arrived broken.,high,damage,2026-09-24 03:00,71,answered
+NW-0404,Halden Medical,ORD-88246,Nobody replied to my email from last week.,low,account_general,2026-09-10 08:00,183,answered
+NW-0405,Fairmont Wine Imports,ORD-90918,Tracking says delivered but nothing arrived.,medium,tracking,2026-09-25 16:00,73,answered
+NW-0406,Northgate Electronics,ORD-51049,Invoice amount does not match the quote.,low,billing,2026-09-02 22:00,103,answered
+NW-0407,Northgate Electronics,ORD-76954,Status has said 'in transit' for 11 days.,low,tracking,2026-10-09 18:00,76,answered
+NW-0408,Ashford Garden Supply,ORD-73788,"Packaging was wet when it arrived, stock is ruined.",medium,damage,2026-09-06 07:00,77,answered
+NW-0409,Oakridge Building Supplies,ORD-28388,Pallet was wrapped badly and half the cartons were crushed.,medium,damage,2026-09-08 00:00,52,answered
+NW-0410,Thornbury Paper Co,ORD-11256,Want to cancel the order booked for tomorrow.,low,account_general,2026-09-02 12:00,31,answered
+NW-0411,Granite Office Supplies,ORD-63626,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-07 10:00,91,answered
+NW-0412,Cobalt Machinery,ORD-14044,Who is our account manager now?,low,account_general,2026-09-13 16:00,52,answered
+NW-0413,Ashford Garden Supply,ORD-69942,Invoice has the wrong VAT number.,medium,billing,2026-10-06 04:00,96,answered
+NW-0414,Cobalt Machinery,ORD-24969,Can you send proof of delivery for last week's order?,medium,account_general,2026-09-08 11:00,92,answered
+NW-0415,Pennine Steel,ORD-67850,What is your refund policy for missed collections?,low,refunds_claims,2026-09-09 02:00,141,answered
+NW-0416,Kestrel Auto Parts,ORD-49021,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-10-16 15:00,125,answered
+NW-0417,Coastline Furniture,ORD-41056,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-10-17 22:00,83,answered
+NW-0418,Ashford Garden Supply,ORD-90760,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-09-03 07:00,109,answered
+NW-0419,Westbrook Sports,ORD-46842,Driver refused to unload at our site.,medium,wrong_delivery,2026-10-20 07:00,100,answered
+NW-0420,Bluewater Beverages,ORD-77425,How do I claim for damaged goods?,low,refunds_claims,2026-09-30 09:00,67,answered
+NW-0421,Northgate Electronics,ORD-27392,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-10-20 07:00,,awaiting_response
+NW-0422,Silverline Cosmetics,ORD-74154,Submitted a claim 6 weeks ago and heard nothing.,medium,refunds_claims,2026-10-04 06:00,129,answered
+NW-0423,Fairmont Wine Imports,ORD-19898,"Why was there a waiting time charge? Your driver was late, not us.",medium,billing,2026-09-01 19:00,80,answered
+NW-0424,Bluewater Beverages,ORD-58374,Status has said 'in transit' for 11 days.,high,tracking,2026-09-20 23:00,93,answered
+NW-0425,Brightwell Pharmacy,ORD-70089,Want a refund for the late delivery as per our agreement.,high,refunds_claims,2026-09-05 17:00,10,answered
+NW-0426,Meridian Textiles,ORD-74843,Can you transport lithium batteries?,medium,customs_hazardous,2026-10-06 18:00,184,answered
+NW-0427,Northgate Electronics,ORD-84205,Need a copy of an invoice from last March.,low,billing,2026-09-26 13:00,97,answered
+NW-0428,Pennine Steel,ORD-23051,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-08-28 03:00,130,answered
+NW-0429,Ridgeway Toys,ORD-36518,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-09-17 17:00,85,answered
+NW-0430,Bluewater Beverages,ORD-22234,"Why was there a waiting time charge? Your driver was late, not us.",low,billing,2026-10-11 19:00,153,answered
+NW-0431,Ashford Garden Supply,ORD-16787,Status has said 'in transit' for 11 days.,medium,tracking,2026-09-23 15:00,113,answered
+NW-0432,Coastline Furniture,ORD-10142,We received someone else's order.,medium,wrong_delivery,2026-09-18 17:00,112,answered
+NW-0433,Fairmont Wine Imports,ORD-11217,Two boxes in the shipment were damaged.,high,damage,2026-09-04 17:00,59,answered
+NW-0434,Granite Office Supplies,ORD-19283,Tracking says delivered but nothing arrived.,low,tracking,2026-09-19 08:00,118,answered
+NW-0435,Oakridge Building Supplies,ORD-27973,Status has said 'in transit' for 11 days.,medium,tracking,2026-10-16 13:00,69,answered
+NW-0436,Northgate Electronics,ORD-18966,Forklift damage on three pallets.,high,damage,2026-08-31 15:00,201,answered
+NW-0437,Meridian Textiles,ORD-92323,"Packaging was wet when it arrived, stock is ruined.",medium,damage,2026-09-17 19:00,73,answered
+NW-0438,Meridian Textiles,ORD-21362,Shipment held at customs. What paperwork is missing?,medium,customs_hazardous,2026-09-02 19:00,117,answered
+NW-0439,Thornbury Paper Co,ORD-66280,The tracking link in your email doesn't work.,medium,tracking,2026-09-05 01:00,124,answered
+NW-0440,Kestrel Auto Parts,ORD-82534,Driver refused to unload at our site.,medium,wrong_delivery,2026-10-01 17:00,110,answered
+NW-0441,Oakridge Building Supplies,ORD-36928,Invoice has the wrong VAT number.,medium,billing,2026-08-27 10:00,23,answered
+NW-0442,Pennine Steel,ORD-41370,Goods went to our old address even though we updated it.,medium,wrong_delivery,2026-09-21 22:00,67,answered
+NW-0443,Brightwell Pharmacy,ORD-79243,Driver left the goods at the wrong dock.,high,wrong_delivery,2026-09-12 17:00,109,answered
+NW-0444,Cobalt Machinery,ORD-65163,Want a refund for the late delivery as per our agreement.,medium,refunds_claims,2026-10-14 02:00,77,answered
+NW-0445,Brightwell Pharmacy,ORD-12187,Forklift damage on three pallets.,low,damage,2026-09-15 04:00,178,answered
+NW-0446,Pennine Steel,ORD-62163,Invoice has the wrong VAT number.,low,billing,2026-10-06 23:00,27,answered
+NW-0447,Brightwell Pharmacy,ORD-93956,Do you need an export declaration for goods to Norway?,medium,customs_hazardous,2026-09-19 05:00,119,answered
+NW-0448,Meridian Textiles,ORD-30365,Invoice has the wrong VAT number.,low,billing,2026-10-18 15:00,92,answered
+NW-0449,Kestrel Auto Parts,ORD-17589,Tracking says delivered but nothing arrived.,low,tracking,2026-09-28 21:00,119,answered
+NW-0450,Elmfield Books,ORD-17212,Can you transport lithium batteries?,high,customs_hazardous,2026-10-15 11:00,85,answered
+NW-0451,Northgate Electronics,ORD-11487,Pallet was wrapped badly and half the cartons were crushed.,medium,damage,2026-10-15 04:00,17,answered
+NW-0452,Bluewater Beverages,ORD-31884,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-09-10 17:00,93,answered
+NW-0453,Harbour Foods Ltd,ORD-53910,Need a copy of an invoice from last March.,low,billing,2026-10-15 07:00,131,answered
+NW-0454,Cobalt Machinery,ORD-92251,Tracking page has not updated since Monday.,medium,tracking,2026-10-02 22:00,121,answered
+NW-0455,Cobalt Machinery,ORD-31873,Want a refund for the late delivery as per our agreement.,low,refunds_claims,2026-10-20 15:00,91,answered
+NW-0456,Coastline Furniture,ORD-39937,Can't find my order on your website using the order number.,medium,tracking,2026-09-06 09:00,115,answered
+NW-0457,Granite Office Supplies,ORD-57707,Need this pallet before Friday or our production line stops.,high,delays,2026-10-24 07:00,,awaiting_response
+NW-0458,Ridgeway Toys,ORD-39427,Glass items arrived broken.,medium,damage,2026-10-22 08:00,,awaiting_response
+NW-0459,Cobalt Machinery,ORD-58864,How do I claim for damaged goods?,medium,refunds_claims,2026-10-02 05:00,142,answered
+NW-0460,Lowland Dairy,ORD-16019,Need this pallet before Friday or our production line stops.,low,delays,2026-10-10 01:00,59,answered
+NW-0461,Oakridge Building Supplies,ORD-52899,How do I add a new user to our account?,low,account_general,2026-10-01 06:00,132,answered
+NW-0462,Cobalt Machinery,ORD-49834,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-09-23 21:00,56,answered
+NW-0463,Westbrook Sports,ORD-42129,Can we book a regular weekly collection?,low,account_general,2026-10-08 16:00,124,answered
+NW-0464,Thornbury Paper Co,ORD-93354,Shipment held at customs. What paperwork is missing?,high,customs_hazardous,2026-10-23 08:00,,awaiting_response
+NW-0465,Oakridge Building Supplies,ORD-23624,"Collection was booked for 9am, driver never showed up.",medium,delays,2026-08-30 06:00,76,answered
+NW-0466,Pennine Steel,ORD-28661,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-09-19 13:00,90,answered
+NW-0467,Lowland Dairy,ORD-64140,Your estimated delivery date has changed four times.,medium,delays,2026-10-05 14:00,159,answered
+NW-0468,Northgate Electronics,ORD-93521,Status has said 'in transit' for 11 days.,low,tracking,2026-09-05 19:00,40,answered
+NW-0469,Northgate Electronics,ORD-41034,Order stuck at the Felixstowe depot for a week.,low,delays,2026-09-18 06:00,113,answered
+NW-0470,Halden Medical,ORD-51688,Your claim form keeps rejecting our upload.,low,refunds_claims,2026-09-21 20:00,119,answered
+NW-0471,Cobalt Machinery,ORD-24283,Tracking says delivered but nothing arrived.,low,tracking,2026-10-08 01:00,47,answered
+NW-0472,Coastline Furniture,ORD-80244,Your phone line kept me on hold for 40 minutes.,high,account_general,2026-09-15 14:00,69,answered
+NW-0473,Bluewater Beverages,ORD-25717,Driver left the goods at the wrong dock.,low,wrong_delivery,2026-09-16 19:00,69,answered
+NW-0474,Meridian Textiles,ORD-52964,We were charged twice for the same shipment.,low,billing,2026-08-26 21:00,104,answered
+NW-0475,Pennine Steel,ORD-98759,Only 8 of 12 pallets were delivered.,medium,wrong_delivery,2026-09-25 00:00,78,answered
+NW-0476,Fairmont Wine Imports,ORD-82869,"Packaging was wet when it arrived, stock is ruined.",high,damage,2026-10-22 17:00,,awaiting_response
+NW-0477,Northgate Electronics,ORD-25919,Tracking page has not updated since Monday.,low,tracking,2026-09-15 22:00,41,answered
+NW-0478,Silverline Cosmetics,ORD-58790,Delivery was left outside in the rain with no signature.,medium,wrong_delivery,2026-10-14 05:00,56,answered
+NW-0479,Brightwell Pharmacy,ORD-12857,Tracking page has not updated since Monday.,low,tracking,2026-09-05 16:00,102,answered
+NW-0480,Halden Medical,ORD-26059,Need to change the delivery address on an existing order.,medium,account_general,2026-10-14 09:00,39,answered
+NW-0481,Ridgeway Toys,ORD-61773,"Delivery window was 8-12, driver came at 6pm.",low,delays,2026-10-11 00:00,167,answered
+NW-0482,Ashford Garden Supply,ORD-46042,Can you transport lithium batteries?,medium,customs_hazardous,2026-10-10 15:00,74,answered
+NW-0483,Elmfield Books,ORD-42215,"Packaging was wet when it arrived, stock is ruined.",medium,damage,2026-10-22 10:00,,awaiting_response
+NW-0484,Brightwell Pharmacy,ORD-46670,Hazardous goods label missing on our delivery note.,medium,customs_hazardous,2026-09-08 09:00,88,answered
+NW-0485,Lowland Dairy,ORD-42656,Delivery was left outside in the rain with no signature.,high,wrong_delivery,2026-08-31 12:00,156,answered
+NW-0486,Thornbury Paper Co,ORD-72873,"Delivery window was 8-12, driver came at 6pm.",medium,delays,2026-09-22 17:00,133,answered
+NW-0487,Harbour Foods Ltd,ORD-51795,What is your refund policy for missed collections?,low,refunds_claims,2026-09-22 05:00,65,answered
+NW-0488,Granite Office Supplies,ORD-79393,Fuel surcharge on our invoice wasn't in the contract.,medium,billing,2026-10-20 09:00,,awaiting_response
+NW-0489,Kestrel Auto Parts,ORD-44934,Driver refused to unload at our site.,high,wrong_delivery,2026-10-11 18:00,41,answered
+NW-0490,Silverline Cosmetics,ORD-56504,Third late delivery this month. We're losing patience.,low,delays,2026-10-06 15:00,101,answered
+NW-0491,Cobalt Machinery,ORD-13697,Want a refund for the late delivery as per our agreement.,high,refunds_claims,2026-08-26 20:00,74,answered
+NW-0492,Granite Office Supplies,ORD-81057,Glass items arrived broken.,medium,damage,2026-09-07 07:00,176,answered
+NW-0493,Elmfield Books,ORD-38679,Delivery arrived two days late.,medium,delays,2026-10-17 16:00,32,answered
+NW-0494,Meridian Textiles,ORD-27103,Your estimated delivery date has changed four times.,medium,delays,2026-09-27 01:00,165,answered
+NW-0495,Cobalt Machinery,ORD-28566,How do I claim for damaged goods?,medium,refunds_claims,2026-10-20 07:00,21,answered
+NW-0496,Silverline Cosmetics,ORD-86810,How do I claim for damaged goods?,low,refunds_claims,2026-10-19 04:00,76,answered
+NW-0497,Ridgeway Toys,ORD-93789,Your claim form keeps rejecting our upload.,medium,refunds_claims,2026-10-13 17:00,188,answered
+NW-0498,Elmfield Books,ORD-56769,Pallet was wrapped badly and half the cartons were crushed.,high,damage,2026-09-07 10:00,118,answered
+NW-0499,Oakridge Building Supplies,ORD-26691,Pallet was wrapped badly and half the cartons were crushed.,high,damage,2026-09-23 02:00,69,answered
+NW-0500,Elmfield Books,ORD-51709,Do you need an export declaration for goods to Norway?,high,customs_hazardous,2026-09-06 22:00,25,answered
