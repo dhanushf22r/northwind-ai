@@ -43,6 +43,12 @@
 - **Missed:** skipped every prediction prompt.
 - **Energy:** 4/5.
 
+## Back from vacation · Sun 15 Nov
+
+1. On your laptop, run `git pull --rebase` in the repo. Your local copy doesn't have the 29 Oct log changes yet.
+2. Start a new chat and say **"check progress"**.
+3. Short recap quiz, then finish the Vercel page (KAN-13). Daniel has been waiting since 26 Oct.
+
 ## Re-plan (29 Oct): nothing done 26–29 Oct, plan moves +1 week
 
 | Day        | Plan                                                                                                   |
