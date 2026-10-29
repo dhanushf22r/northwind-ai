@@ -2,26 +2,26 @@
 
 > **Source of truth:** this file. Claude reads only this copy. The [Confluence Progress Log](https://dhanushpixel.atlassian.net/wiki/spaces/NWFDE/pages/622895/Progress+Log) is a synced copy, updated on save.
 
-**Last updated:** Sun 25 Oct 2026
+**Last updated:** Thu 29 Oct 2026
 
 ## Status
 
 |                       |                                                                                             |
 | --------------------- | ------------------------------------------------------------------------------------------- |
-| **Current week**      | 1 (compressed: Thu 22 – Sun 25 Oct 2026). Closes Tue 27 Oct once KAN-13 (Vercel page) ships |
-| **Rank · XP**         | Intern · **43 XP**                                                                          |
-| **Next up**           | Mon 26: explain-back quiz → read-only RLS rule → Vercel page (KAN-13)                       |
-| **North Star metric** | Average first response time: **4 days → under 24 hours** (dataset baseline: 95 hrs)         |
+| **Current week**      | 1, still open. On vacation 30 Oct – 14 Nov. Week 1 closes **Sun 15 Nov** once KAN-13 (Vercel page) ships |
+| **Rank · XP**         | Intern · **43 XP**                                                                                        |
+| **Next up**           | Sun 15 Nov: recap quiz → explain-back → read-only RLS rule → Vercel page + root README (KAN-13)          |
+| **North Star metric** | Average first response time: **4 days → under 24 hours** (dataset baseline: 95 hrs)                       |
 
 ## Schedule
 
 - **Time zone:** Singapore (SGT). Avoid the 7:45–8:05 pm handover.
-- **Vacation:** 30 Oct – 14 Nov 2026. Week 2 is compressed into Mon 26 – Thu 29 Oct.
+- **Vacation:** 30 Oct – 14 Nov 2026. The pre-vacation Week 2 slot (26–29 Oct) wasn't used, so the whole plan moved **+1 week** (re-plan 29 Oct).
 - **From Mon 16 Nov:** fixed 14-day shift rotation (2 on, 2 off, 3 on, 2 off, 2 on, 3 off), marked "Workday" in Google Calendar. **No study on Workdays.**
-- **Study weeks run Wed–Tue.** Split weeks (W3, 5 … 31, S2, W32) are off Wed, Thu, Mon, Tue; block weeks (W4, 6 … 30, S1, S3) are off Fri, Sat, Sun.
-- **W3 starts Wed 18 Nov.** Sun 15 Nov is a spare catch-up day.
-- **Board panel** by Tue 6 Jul 2027.
-- **Rank targets:** Junior FDE 8 Dec · FDE 12 Jan · Senior FDE 30 Mar · Lead FDE 8 Jun · Principal 6 Jul 2027.
+- **Study weeks run Wed–Tue.** Split weeks (W2, 4 … 30, S1, S3) are off Wed, Thu, Mon, Tue; block weeks (W3, 5 … 31, S2, W32) are off Fri, Sat, Sun.
+- **Sun 15 Nov:** close Week 1. **W2 starts Wed 18 Nov**, W3 Wed 25 Nov.
+- **Board panel** by Tue 13 Jul 2027.
+- **Rank targets:** Junior FDE 15 Dec · FDE 19 Jan · Senior FDE 6 Apr · Lead FDE 15 Jun · Principal 13 Jul 2027.
 - Claude builds each week's Google Calendar blocks on off days only. I flag shift swaps or overtime at the end-of-week debrief.
 
 ## Week 1 · "Show me something by Friday"
@@ -34,7 +34,7 @@
 | Sun 25          | Ticket generator v1 → v2 → CSV → Supabase (KAN-12)                                        | ✅ Done  |
 | Sun 25          | Boss fight: Daniel, C+ pass (KAN-14)                                                      | ✅ Done  |
 | Sun 25          | GitHub for Jira connected; debrief (KAN-15)                                               | ✅ Done  |
-| Mon 26 – Tue 27 | Read-only RLS rule + Vercel page + root README (KAN-13)                                   | ⏳ To do |
+| Sun 15 Nov      | Recap quiz + read-only RLS rule + Vercel page + root README (KAN-13)                      | ⏳ To do |
 
 **Wrap-up (25 Oct)**
 
@@ -43,15 +43,15 @@
 - **Missed:** skipped every prediction prompt.
 - **Energy:** 4/5.
 
-## Week 2 plan (about 1 hr/day, Mon 26 – Thu 29)
+## Re-plan (29 Oct): nothing done 26–29 Oct, plan moves +1 week
 
-| Day        | Plan                                                                                  |
-| ---------- | ------------------------------------------------------------------------------------- |
-| Mon 26     | 15-min explain-back on the generator · read-only RLS rule · start Vercel page         |
-| Tue 27     | Finish Vercel page + root README → Week 1 closed                                      |
-| Wed 28     | Concepts: tokens, input vs output price, cost per answer. Cost sheet by hand, no code |
-| Thu 29     | Boss fight: stakeholder map (spot the blocker)                                        |
-| Sun 15 Nov | Catch-up: OpenRouter 3-model × 20-ticket mission                                      |
+| Day        | Plan                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------ |
+| Sun 15 Nov | **Close Week 1:** recap quiz · 15-min explain-back on the generator · read-only RLS rule · Vercel page + root README (KAN-13). Overrun: page can slip to Wed 18 |
+| Wed 18 Nov | **W2 Learn:** tokens, input vs output price, cost per answer, model landscape. Cost sheet by hand, no code. Finish sign-ups (KAN-11: OpenRouter key, LangSmith/Langfuse, AWS + $10 alert) |
+| Thu 19 Nov | **W2 Boss fight:** stakeholder map (spot the blocker) + the four status updates                         |
+| Mon 23 Nov | **W2 Read code:** prompting basics, first OpenRouter call (predict, then run), one small Ollama model   |
+| Tue 24 Nov | **W2 Mission:** 3 models × 20 tickets → cost per 1,000 tickets for Helen · end-of-week debrief          |
 
 Pending: exact daily start times (for calendar blocks); carry-over notes for KAN-17 (messy complaint text, week 3) and KAN-20 (orders dataset, week 6).
 
@@ -88,16 +88,17 @@ Full write-ups: [`consulting/boss-fights/`](consulting/boss-fights/).
 - **NW-0001** is the Harbour Foods pallet shown "in Rotterdam" for 9 days. Kenji says it never left Leeds (open thread: how does he know?).
 - The old bot answered in seconds and was **wrong**; the people took 9 days to fix it.
 - Daniel wrote **"4 days → < 24 hrs"** under NEVER AGAIN.
-- Daniel's demo: Mon 26 Oct, 9 a.m., Helen attending.
+- Daniel's demo (Mon 26 Oct, 9 a.m., Helen attending) **slipped**: no page to show yet. The Sun 15 Nov catch-up episode opens with Daniel asking where it is.
 - **Open threads:** "There's another number the board will ask about. Probably with Helen." · Layoffs: "not THIS part of it, anyway." · Kenji: Sofia's team handles ~60 tickets a day "now. Before... well. Ask her."
 - **Still unpinned:** the deadline for under 24 hrs; how "right answers" is measured.
 - **Secrets uncovered:** none yet.
 
-## Python Gym (LeetCode 75)
+## Python Gym (FDE 35)
 
-- Workday habit: 1 problem per Workday, 30–45 min. Runs in parallel, doesn't gate the FDE path.
-- Target 75/75 by Tue 30 Mar 2027. Checkpoints: 10 by 21 Nov · 25 by 20 Dec · 40 by 20 Jan · 55 by 18 Feb · 75 by 30 Mar.
-- Status: 6/75 (assumed #1–6 Array/String; confirm).
+- Switched 29 Oct from LeetCode 75 to the **FDE 35** list (Confluence → Python Gym: FDE 35): arrays/hashing, parsing/intervals/binary search, OOP and design, bits and linked lists, trees, graphs, plus 295 as an optional stretch.
+- Workday habit: 1 problem per Workday, 30–45 min. Starts Mon 16 Nov. Runs in parallel, doesn't gate the FDE path.
+- Target 35/35 by Thu 21 Jan 2027. Checkpoints: 9 by 1 Dec · 18 by 19 Dec · 26 by 3 Jan · 31 by 15 Jan · 35 by 21 Jan.
+- Status: **0/35**. The 6 LeetCode 75 problems solved in Oct (#1–6 Array/String) aren't on the new list; kept as bonus reps.
 
 ## Self-ratings (1–5, 19 Oct 2026)
 
